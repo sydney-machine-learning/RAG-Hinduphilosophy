@@ -1,0 +1,25 @@
+# ---- Core app ----
+streamlit>=1.30.0,<1.40.0
+python-dotenv>=1.0.1
+protobuf<6
+
+# ---- LLM / LangChain ----
+langchain==0.2.14
+langchain-community==0.2.12
+langchain-google-genai==1.0.10
+google-generativeai==0.7.2
+
+# ---- Vector store ----
+faiss-cpu>=1.7.4
+
+# ---- PDF ----
+pypdf>=4.2.0
+
+# ---- Data IO ----
+pyarrow>=14.0.1
+
+# ---- Token counting ----
+tiktoken>=0.5.0
+
+# ---- RAG enhancements ----
+sentence-transformers>=2.2.0

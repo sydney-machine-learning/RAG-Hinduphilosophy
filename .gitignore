@@ -1,0 +1,7 @@
+faiss_index/
+feedback_data.json
+gita_eval_results/
+__pycache__/
+*.pyc
+.env
+system_params.json
