@@ -1,41 +1,21 @@
-快捷命令笔记
+
 Ctrl+Alt+K
 neobitz.net 
-powershell? 
-/btw
 
-英语： half a dozen 
-& "C:\Users\JuneY\anaconda3\Scripts\conda.exe" create -n comllm python=3.11 -y 2>&1
-激活环境
-conda activate comllm
-consciousness和Hindu philosophy
-LLM: 根据所有已有的 token，预测下一个 token。
-我们需要研究的到底是 优化一个算法，对于Hindu philosophy的对比？ 
-还是探索？
-核心目标： 研究随着 Bhagavad Gita 翻译版本逐步累加，RAG 系统对同一批问题的回答如何演变。、
-优点
-断点续传：每答完一个问题就写入 JSON，下次运行自动跳过已完成的。
-本地嵌入：用 all-MiniLM-L6-v2 做向量化，不消耗 API 配额，只有生成答案时才调用 DeepSeek。
-
-命令
 conda activate comllm
   cd D:\COMPllm
-  python gita_rag_opt.py               # 完整运行
-  python gita_rag_opt.py --rounds 1 2  # 只跑前两轮
-  python gita_rag_opt.py --eval-only   # 只跑评估
+  python gita_rag_opt.py               
+  python gita_rag_opt.py --rounds 1 2  
+  python gita_rag_opt.py --eval-only   
 
 重点1： 判断这道题"是不是在问意识相关的话题"
 
-  TRANSLATIONS = [
-      ("Gita-Swarupananda",  ...),   # 1
-      ("Radhakrishnan",      ...),   # 2
-      ("Prabhupada",         ...),   # 3
-      ("Eknath-Easwaran",    ...),   # 4
-      ("Mahesh-Yogi",        ...),   # 5
-      ("Chinmayananda",      ...),   # 6
-      ("Vinoba-Bhave",       ...),   # 7
-      ("Dayananda-Intro",    ...),   # 8
-      ("Gita-Press-Roman",   ...),   # 9
-      ("Dnyaneshwari",       ...),   # 10
-      ("Gita-Article",       ...),   # 11
-  ]
+GITA_DIR = Path("dataset/Gita")
+
+TRANSLATIONS = [
+    ("Eknath-Easwaran", "R1_easwaran_gita.txt"),           # R1
+    ("Mahatma-Gandhi",  "R2_gandhi_gita.txt"),             # R2
+    ("Purohit-Swami",   "R3_purohit_swami_gita_CLEAN.txt"),# R3
+    ("Upanishads-12",   "R4_easwaran_upanishads_CLEAN.json"),# R4
+    ("Upanishads-108",  "R5_108_upanishads.json"),         # R5
+]
