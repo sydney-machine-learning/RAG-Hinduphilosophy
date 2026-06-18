@@ -23,3 +23,8 @@ tiktoken>=0.5.0
 
 # ---- RAG enhancements ----
 sentence-transformers>=2.2.0
+
+# ---- Evaluation pipeline ----
+openai>=1.0.0
+bert-score>=0.3.13
+nltk>=3.9.0

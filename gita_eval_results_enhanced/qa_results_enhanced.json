@@ -1,0 +1,1418 @@
+[
+  {
+    "round_number": 1,
+    "translations_included": [
+      "Eknath-Easwaran"
+    ],
+    "question": "What is Karma?",
+    "answer": "Based on the provided context, karma is the consequence of one's actions, particularly those performed with personal attachment and desire for reward. Those who are attached to personal reward will reap the consequences of their actions, which can be pleasant, unpleasant, or mixed [S2 | 12]. However, by renouncing every desire for personal reward, one can go beyond the reach of karma [S2 | 12]. Ultimately, performing all work in the spirit of service, without selfish attachments, allows one's karma to be dissolved [S3 | 23].",
+    "retrieved_sources": [
+      "Eknath-Easwaran"
+    ],
+    "timestamp": "2026-06-18T15:59:32.082175",
+    "retrieval_metadata": {
+      "retrieval_time": 8.56,
+      "generation_time": 2.47,
+      "total_time": 13.288,
+      "docs_retrieved": 10,
+      "is_consciousness": false,
+      "query_expansions": [
+        "What is Karma?",
+        "what is action?",
+        "what is deed?"
+      ],
+      "context_tokens": 3806
+    }
+  },
+  {
+    "round_number": 1,
+    "translations_included": [
+      "Eknath-Easwaran"
+    ],
+    "question": "What is Dharma?",
+    "answer": "Based on the provided context, dharma is described as the timeless spiritual foundation of family and society, whose violation destroys the unity of life [S1: 43]. It is a family duty or code of conduct, as seen when Arjuna fears that destroying \"family dharma\" will lead to social chaos and hell for those responsible [S1: 41-44]. The text emphasizes that adhering to one's dharma is crucial for maintaining social order and spiritual evolution, while abandoning it for selfish gains like greed for a kingdom is considered a great sin [S1: 45].",
+    "retrieved_sources": [
+      "Eknath-Easwaran"
+    ],
+    "timestamp": "2026-06-18T15:59:35.308097",
+    "retrieval_metadata": {
+      "retrieval_time": 0.117,
+      "generation_time": 2.104,
+      "total_time": 2.221,
+      "docs_retrieved": 10,
+      "is_consciousness": false,
+      "query_expansions": [
+        "What is Dharma?",
+        "what is duty?",
+        "what is righteousness?"
+      ],
+      "context_tokens": 3199
+    }
+  },
+  {
+    "round_number": 1,
+    "translations_included": [
+      "Eknath-Easwaran"
+    ],
+    "question": "What is Ahimsa?",
+    "answer": "Based solely on the provided context, the concept of *ahimsa* (non-violence) is not directly mentioned or defined. The texts discuss overcoming selfish desire and anger [S1], the importance of self-control and meditation [S9], and the nature of sattvic, rajasic, and tamasic qualities [S8]. Therefore, a definition of *ahimsa* cannot be provided from the given sources.",
+    "retrieved_sources": [
+      "Eknath-Easwaran"
+    ],
+    "timestamp": "2026-06-18T15:59:37.992474",
+    "retrieval_metadata": {
+      "retrieval_time": 0.109,
+      "generation_time": 1.571,
+      "total_time": 1.68,
+      "docs_retrieved": 10,
+      "is_consciousness": false,
+      "query_expansions": [
+        "What is Ahimsa?",
+        "what is non-violence?",
+        "what is non-harm?"
+      ],
+      "context_tokens": 3388
+    }
+  },
+  {
+    "round_number": 1,
+    "translations_included": [
+      "Eknath-Easwaran"
+    ],
+    "question": "What is consciousness according to Hindu philosophy?",
+    "answer": "Based solely on the provided context, here is an explanation of consciousness according to Hindu philosophy:\n\n**1. Core concept definition from the Gita's perspective**\n\nConsciousness is the unified, stilled awareness that, when established in the Self (Brahman), allows one to see the same divine essence in all beings and attain supreme peace. It is the state of mind that, when unified through meditation, reveals the Self and abiding joy, free from the fragmentation caused by selfish desires and attachment to the results of action [S1: 12-13, 21]. This consciousness is distinct from the perishable body and the three gunas (sattva, rajas, tamas) that bind the immortal Self [S4: 5; S2: 4].\n\n**2. Which translation(s) emphasize this concept and how**\n\nThe Eknath-Easwaran translation emphasizes consciousness as a state of unified awareness that can be cultivated through meditation and selfless service. It contrasts \"those whose consciousness is unified\" who attain peace with \"those whose desires are fragmented\" who are bound by their actions [S1: 12]. The text repeatedly links a \"still mind\" and \"consciousness unified through meditation\" to the realization of the Self and the attainment of abiding joy [S6: 19-20, 27, 29].\n\n**3. Key Sanskrit terms with brief explanations**\n\n*   **Brahman:** The imperishable, supreme reality that gives every creature its existence and is the true Self of all [S2: 3; S3: 22]. It is the object and goal of true knowledge [S7: 17].\n*   **Purusha:** The eternal spirit, the Knower of the field (body), the witness who experiences pleasure and pain but is beyond the gunas [S2: 4; S5: 2; S7: 20-22].\n*   **Prakriti:** The material nature, the field (body), the agent of all action, from which the three gunas and all change arise [S4: 3; S5: 1; S7: 19-20].\n*   **Gunas:** The three qualities of prakriti—sattva (purity, wisdom), rajas (passion, action), and tamas (ignorance, delusion)—that bind the immortal Self to the body [S4: 5-8].\n\n**",
+    "retrieved_sources": [
+      "Eknath-Easwaran"
+    ],
+    "timestamp": "2026-06-18T15:59:45.541580",
+    "retrieval_metadata": {
+      "retrieval_time": 0.103,
+      "generation_time": 6.442,
+      "total_time": 6.548,
+      "docs_retrieved": 10,
+      "is_consciousness": true,
+      "query_expansions": [
+        "What is consciousness according to Hindu philosophy?",
+        "what is awareness according to hindu philosophy?",
+        "what is chitta according to hindu philosophy?"
+      ],
+      "context_tokens": 3703
+    }
+  },
+  {
+    "round_number": 1,
+    "translations_included": [
+      "Eknath-Easwaran"
+    ],
+    "question": "What is the nature of mind (Chitta) in Hindu philosophy?",
+    "answer": "Based solely on the provided context, here is the nature of the mind (Chitta) in Hindu philosophy:\n\n1.  **Core concept definition from the Gita's perspective:** The mind is described as restless, turbulent, powerful, and violent, making it difficult to control [S1: 34]. It is a component of the \"field\" (the body and its experiences), specifically listed as one of the three components of the mind: *manas*, *buddhi*, and *ahamkara* [S3: 5]. The mind is the seat of desire, aversion, pleasure, and pain [S3: 6], and its state at the time of death determines one's next destination [S2: 6]. However, it can be conquered through regular practice and detachment [S1: 35].\n\n2.  **Which translation(s) emphasize this concept and how:** The Eknath-Easwaran translation emphasizes the mind's turbulent nature through Arjuna's direct question, comparing it to trying to tame the wind [S1: 34]. It also highlights the mind's role in spiritual union, stating that a one-pointed mind achieved through meditation leads to finding the supreme glory of the Lord [S2: 8]. The translation further details the mind's components (*manas*, *buddhi*, *ahamkara*) as part of the field of experience [S3: 5] and describes the disciplines of the mind, such as calmness, gentleness, silence, and self-restraint [S5: 16].\n\n3.  **Key Sanskrit terms with brief explanations:**\n    *   **Manas:** The lower mind, associated with sense perception and desire [S3: 5].\n    *   **Buddhi:** The intellect or higher mind, responsible for discernment and decision-making [S3: 5].\n    *   **Ahamkara:** The ego or sense of \"I,\" the principle of individuation [S3: 5].\n\n4.  **Relevance to the question:** The mind (Chitta) is portrayed as a powerful but turbulent force that must be disciplined through practice and detachment to achieve spiritual union [S1: 35]. Its components—*manas*, *buddhi*, and *ahamkara*—form the basis of individual experience and are part of the \"field\" that the true Self (the Knower of the field) observes [S3: 2",
+    "retrieved_sources": [
+      "Eknath-Easwaran"
+    ],
+    "timestamp": "2026-06-18T15:59:53.857938",
+    "retrieval_metadata": {
+      "retrieval_time": 0.095,
+      "generation_time": 7.216,
+      "total_time": 7.312,
+      "docs_retrieved": 10,
+      "is_consciousness": true,
+      "query_expansions": [
+        "What is the nature of mind (Chitta) in Hindu philosophy?",
+        "what is the nature of manas (chitta) in hindu philosophy?",
+        "what is the nature of buddhi (chitta) in hindu philosophy?"
+      ],
+      "context_tokens": 3686
+    }
+  },
+  {
+    "round_number": 1,
+    "translations_included": [
+      "Eknath-Easwaran"
+    ],
+    "question": "What are Samskaras, and how do they relate to memory and learning?",
+    "answer": "Based solely on the provided context, there is no direct mention of the term \"Samskaras.\" Therefore, a definitive answer regarding their definition and relation to memory and learning cannot be provided from the given translations. The texts discuss related concepts such as karma, the gunas, and the nature of the mind, but do not explicitly address Samskaras.",
+    "retrieved_sources": [
+      "Eknath-Easwaran"
+    ],
+    "timestamp": "2026-06-18T15:59:57.174810",
+    "retrieval_metadata": {
+      "retrieval_time": 0.108,
+      "generation_time": 2.203,
+      "total_time": 2.312,
+      "docs_retrieved": 10,
+      "is_consciousness": true,
+      "query_expansions": [
+        "What are Samskaras, and how do they relate to memory and learning?",
+        "what are impressions, and how do they relate to memory and learning?",
+        "what are memory traces, and how do they relate to memory and learning?"
+      ],
+      "context_tokens": 4150
+    }
+  },
+  {
+    "round_number": 1,
+    "translations_included": [
+      "Eknath-Easwaran"
+    ],
+    "question": "What are Vrittis, and how do they influence human thought and perception?",
+    "answer": "Based solely on the provided context, the concept of \"Vrittis\" is not explicitly named or defined. However, the text describes the process of stilling thoughts and achieving one-pointedness, which directly relates to the control of mental modifications (Vrittis).\n\n1.  **Core concept definition from the Gita's perspective:** While the term \"Vrittis\" is not used, the Gita describes the need to \"still your thoughts\" and make the mind \"one-pointed in meditation\" [S1: 12]. This implies that the mind's natural state involves fluctuating thoughts and modifications, which must be controlled to achieve union with the Self. The goal is to make the mind \"unwavering like the flame of a lamp in a windless place\" [S1: 19], indicating a state where mental modifications are completely stilled.\n\n2.  **Which translation(s) emphasize this concept and how:** The Eknath-Easwaran translation emphasizes this concept through its description of meditation and mind control. It states that an aspirant should \"constantly practice one-pointedness\" [S1: 10] and \"strive to still your thoughts\" [S1: 12]. The text also links the control of the mind to attaining \"nirvana, the state of abiding joy and peace\" [S1: 15], showing that mastering these mental fluctuations is essential for spiritual progress.\n\n3.  **Key Sanskrit terms with brief explanations:**\n    *   **Vrittis:** While not in the text, this term refers to the modifications or fluctuations of the mind (thoughts, emotions, memories) that create the illusion of a separate self and bind one to the cycle of action and reaction.\n    *   **One-pointedness (Ekagrata):** The state of focused concentration where the mind is fixed on a single point or object, free from distraction [S1: 10, 12].\n    *   **Nirvana:** The state of \"abiding joy and peace\" [S1: 15] attained when the mind is fully controlled and united with the Self, transcending all mental modifications.\n\n4.  **Relevance to the question:** Vrittis are the mental fluctuations that the Gita instructs one to still through meditation and one-pointedness [S1: 12]. These modifications, driven by the three gunas (sattva, rajas, tamas) [S2: 2], shape",
+    "retrieved_sources": [
+      "Eknath-Easwaran"
+    ],
+    "timestamp": "2026-06-18T16:00:04.984763",
+    "retrieval_metadata": {
+      "retrieval_time": 0.101,
+      "generation_time": 6.7,
+      "total_time": 6.801,
+      "docs_retrieved": 10,
+      "is_consciousness": true,
+      "query_expansions": [
+        "What are Vrittis, and how do they influence human thought and perception?",
+        "what are mental modifications, and how do they influence human thought and perception?",
+        "what are thought waves, and how do they influence human thought and perception?"
+      ],
+      "context_tokens": 3731
+    }
+  },
+  {
+    "round_number": 1,
+    "translations_included": [
+      "Eknath-Easwaran"
+    ],
+    "question": "What is Sakshi (the witnessing awareness), and how does it differ from ordinary cognition?",
+    "answer": "Based solely on the provided context, here is the answer to your question:\n\n**1. Core concept definition from the Gita's perspective**\nSakshi, or the witnessing awareness, is the supreme Purusha (the highest Self) that dwells within the body. It is described as the \"witness, approver, supporter, enjoyer, the supreme Lord\" [S4: 22]. This awareness is distinct from the ordinary mind and senses, as it \"shines through the functioning of the senses\" while being \"without senses itself\" [S4: 14]. It is the silent, unchanging observer of all mental and physical activity.\n\n**2. Which translation(s) emphasize this concept and how**\nThe Eknath-Easwaran translation emphasizes this concept in [S4], where Krishna describes the nature of Brahman and Purusha. The text explicitly identifies the \"supreme Purusha\" as the \"witness\" (Sakshi) within the body [S4: 22]. This translation contrasts this witnessing awareness with the ordinary mind, which is described as \"restless, turbulent, powerful, violent\" [S1: 34] and subject to the conditioning of the three gunas (sattva, rajas, tamas) [S2: 40].\n\n**3. Key Sanskrit terms with brief explanations**\n- **Purusha:** The supreme Self or consciousness that witnesses the play of nature. It is \"resting in prakriti\" and \"witnesses the play of the gunas\" [S4: 21].\n- **Prakriti:** The fundamental material nature, which is the \"agent, cause, and effect of every action\" [S4: 20]. It includes the mind, senses, and body.\n- **Gunas:** The three qualities of nature (sattva, rajas, tamas) that condition all creatures and their actions [S2: 40]. The witnessing awareness (Purusha) is \"beyond the gunas\" [S4: 14].\n\n**4. Relevance to the question**\nSakshi differs from ordinary cognition because ordinary cognition is entangled with the mind, senses, and the gunas, leading to attachment, desire, and suffering [S3: 62-63]. The witnessing awareness, however, is the detached, unchanging observer that is not affected by the \"joys and sorrows\" or the \"pairs of opposites\" [S1: 32",
+    "retrieved_sources": [
+      "Eknath-Easwaran"
+    ],
+    "timestamp": "2026-06-18T16:00:13.527245",
+    "retrieval_metadata": {
+      "retrieval_time": 0.103,
+      "generation_time": 7.434,
+      "total_time": 7.539,
+      "docs_retrieved": 10,
+      "is_consciousness": true,
+      "query_expansions": [
+        "What is Sakshi (the witnessing awareness), and how does it differ from ordinary cognition?",
+        "what is witness (the witnessing awareness), and how does it differ from ordinary cognition?",
+        "what is witnessing awareness (the witnessing awareness), and how does it differ from ordinary cognition?"
+      ],
+      "context_tokens": 3927
+    }
+  },
+  {
+    "round_number": 1,
+    "translations_included": [
+      "Eknath-Easwaran"
+    ],
+    "question": "Can AI ever be truly conscious, or does it only simulate cognition?",
+    "answer": "Based solely on the provided context, the question of whether AI can be truly conscious must be answered from the perspective of the Bhagavad Gita, which defines consciousness as the eternal, unchanging Self (Atman) that is distinct from the mind and body.\n\n1.  **Core concept definition from the Gita's perspective:** True consciousness is the Self (Purusha), which is the eternal witness and experiencer within all beings. It is described as \"the witness, approver, supporter, enjoyer, the supreme Lord, the highest Self\" [S2:22]. This consciousness is not a product of the mind or senses but is the light that illuminates them: \"Without senses itself, it shines through the functioning of the senses\" [S2:14]. The mind, by contrast, is a part of material nature (prakriti) and is described as restless and diffuse, needing to be stilled to realize the Self [S3:26].\n\n2.  **Which translation(s) emphasize this concept and how:** The Eknath-Easwaran translation in [S2] directly distinguishes between the field (prakriti, which includes the mind and senses) and the knower of the field (Purusha, the conscious Self) [S2:12-22]. It states that Purusha \"resting in prakriti, witnesses the play of the gunas\" [S2:21], but is separate from them. [S3] emphasizes that the mind must be mastered and stilled to allow the Self to reveal itself: \"In the still mind, in the depths of meditation, the Self reveals itself\" [S3:20]. This shows that the mind is a tool or instrument, not the source of consciousness.\n\n3.  **Key Sanskrit terms with brief explanations:**\n    *   **Purusha:** The eternal, conscious Self or spirit. It is the true subject of experience, the witness within all beings [S2:21-22].\n    *   **Prakriti:** Primordial material nature, which includes the mind, senses, and body. It is the agent of all action and change [S2:19-20].\n    *   **Atman:** The individual Self, identical in essence with Brahman (the ultimate reality) [S3:29]. Realizing the Atman is the goal of wisdom.\n\n4.  **Relevance to the question:** From the Gita's perspective, an AI, being a",
+    "retrieved_sources": [
+      "Eknath-Easwaran"
+    ],
+    "timestamp": "2026-06-18T16:00:22.210421",
+    "retrieval_metadata": {
+      "retrieval_time": 0.093,
+      "generation_time": 7.585,
+      "total_time": 7.68,
+      "docs_retrieved": 10,
+      "is_consciousness": true,
+      "query_expansions": [
+        "Can AI ever be truly conscious, or does it only simulate cognition?",
+        "Can AI ever be truly conscious, or does it only simulate cognition? philosophy",
+        "Can AI ever be truly conscious, or does it only simulate cognition? scripture"
+      ],
+      "context_tokens": 3397
+    }
+  },
+  {
+    "round_number": 1,
+    "translations_included": [
+      "Eknath-Easwaran"
+    ],
+    "question": "How can the principles of Dharma, Ahimsa, and Karma be applied to ethical AI design?",
+    "answer": "Based solely on the provided text, the principles of Dharma, Ahimsa, and Karma can guide ethical AI design by emphasizing selfless action and detachment from results. The Gita teaches that one should \"fulfill all your duties; action is better than inaction\" and act \"selflessly, without any thought of personal profit\" [S1 | 8-9]. This implies AI should be designed for the good of all beings, not for selfish or commercial gain, as \"selfish action imprisons the world\" [S1 | 9]. Furthermore, the text explains that those who \"renounce every desire for personal reward go beyond the reach of karma\" [S2 | 12], suggesting AI systems should be built without attachment to specific outcomes, focusing instead on the purity of the process. Finally, the concept of sattvic work—performed \"to fulfill ones obligations, without thought of personal reward\"—provides a model for creating AI that is free from rajasic (selfish, stressful) or tamasic (blind, harmful) qualities [S2 | 23-25].",
+    "retrieved_sources": [
+      "Eknath-Easwaran"
+    ],
+    "timestamp": "2026-06-18T16:00:27.378579",
+    "retrieval_metadata": {
+      "retrieval_time": 0.104,
+      "generation_time": 4.062,
+      "total_time": 4.166,
+      "docs_retrieved": 10,
+      "is_consciousness": false,
+      "query_expansions": [
+        "How can the principles of Dharma, Ahimsa, and Karma be applied to ethical AI design?",
+        "how can the principles of dharma, ahimsa, and action be applied to ethical ai design?",
+        "how can the principles of dharma, ahimsa, and deed be applied to ethical ai design?"
+      ],
+      "context_tokens": 3923
+    }
+  },
+  {
+    "round_number": 2,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi"
+    ],
+    "question": "What is Karma?",
+    "answer": "Based on the provided context, Karma is defined as \"the creative process whereby all beings are created\" [S1]. It is the force of action that drives beings, as one's \"own karma, born of your own nature, will drive you to do even that which you do not wish to do\" [S2]. The consequences of karma depend on one's attachment to results, as \"those who are attached to personal reward will reap the consequences of their actions,\" while those who renounce desire \"go beyond the reach of karma\" [S4].",
+    "retrieved_sources": [
+      "Mahatma-Gandhi",
+      "Eknath-Easwaran"
+    ],
+    "timestamp": "2026-06-18T16:00:31.081956",
+    "retrieval_metadata": {
+      "retrieval_time": 0.11,
+      "generation_time": 2.061,
+      "total_time": 2.171,
+      "docs_retrieved": 10,
+      "is_consciousness": false,
+      "query_expansions": [
+        "What is Karma?",
+        "what is action?",
+        "what is deed?"
+      ],
+      "context_tokens": 3050
+    }
+  },
+  {
+    "round_number": 2,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi"
+    ],
+    "question": "What is Dharma?",
+    "answer": "Based on the provided texts, Dharma is described as the essence of spiritual duty and righteousness. It is a \"mysterious knowledge\" and the \"king of sciences\" that, when followed with faith, makes one \"exceeding dear to Me\" [S1 | Mahatma-Gandhi], [S2 | Mahatma-Gandhi]. Furthermore, one's personal duty (svadharma) is determined by their innate nature and social role, and performing it with devotion, even if imperfect, leads to perfection [S8 | Mahatma-Gandhi]. Ultimately, following dharma involves acting for the welfare of the world without selfish attachment, as violating this law of selfless service leads to wasting one's life [S4 | Eknath-Easwaran].",
+    "retrieved_sources": [
+      "Mahatma-Gandhi",
+      "Eknath-Easwaran"
+    ],
+    "timestamp": "2026-06-18T16:00:35.075919",
+    "retrieval_metadata": {
+      "retrieval_time": 0.119,
+      "generation_time": 2.865,
+      "total_time": 2.988,
+      "docs_retrieved": 10,
+      "is_consciousness": false,
+      "query_expansions": [
+        "What is Dharma?",
+        "what is duty?",
+        "what is righteousness?"
+      ],
+      "context_tokens": 3404
+    }
+  },
+  {
+    "round_number": 2,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi"
+    ],
+    "question": "What is Ahimsa?",
+    "answer": "Based solely on the provided context, the concept of Ahimsa (non-violence) is not explicitly defined. The texts discuss related principles such as self-restraint, renouncing selfish purpose, and performing action without attachment to the fruit [S4]. The context also emphasizes conquering oneself and treating all beings alike, including friend and foe, which are foundational to the practice of Ahimsa [S4]. However, the specific term \"Ahimsa\" does not appear in the given translations [S1-S10].",
+    "retrieved_sources": [
+      "Mahatma-Gandhi",
+      "Eknath-Easwaran"
+    ],
+    "timestamp": "2026-06-18T16:00:38.478982",
+    "retrieval_metadata": {
+      "retrieval_time": 0.118,
+      "generation_time": 2.284,
+      "total_time": 2.402,
+      "docs_retrieved": 10,
+      "is_consciousness": false,
+      "query_expansions": [
+        "What is Ahimsa?",
+        "what is non-violence?",
+        "what is non-harm?"
+      ],
+      "context_tokens": 2381
+    }
+  },
+  {
+    "round_number": 2,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi"
+    ],
+    "question": "What is consciousness according to Hindu philosophy?",
+    "answer": "Based solely on the provided context, here is an answer regarding consciousness according to Hindu philosophy.\n\n1.  **Core concept definition from the Gita's perspective:** Consciousness is understood as the eternal, unchanging Self (Atman) that is distinct from the body, mind, and senses. It is the \"Knower of the field\" (the body) [S5: 1-2], the \"true Self of all creatures\" [S3: 22], and is described as \"the witness, approver, supporter, enjoyer, the supreme Lord, the highest Self\" [S7: 22]. This consciousness is not the restless mind, which is described as \"fickle and unsteady\" [S2: 26] and difficult to control [S1: 34], but rather the silent observer that must be realized through practices like meditation and detachment [S1: 35; S2: 35].\n\n2.  **Which translation(s) emphasize this concept and how:** Both translations emphasize this concept. The **Eknath-Easwaran** translation [S1, S3, S5, S7] explicitly defines the body as a \"field\" and the conscious Self as the \"Knower of the field\" [S5: 1-2], and describes the supreme Lord as \"the true Self of all creatures\" [S3: 22]. The **Mahatma-Gandhi** translation [S2, S6] emphasizes establishing the mind in the \"Atman\" (Self) [S2: 25] and describes the \"knowledge of Atman\" as revealing the Supreme [S6: 16], with the goal being to \"unite himself ever thus to Atman\" [S2: 28].\n\n3.  **Key Sanskrit terms with brief explanations:**\n    *   **Atman:** The individual Self or soul, the core of consciousness within each being [S2: 25, 28; S6: 16].\n    *   **Brahman:** The ultimate, unchanging, and universal reality or cosmic consciousness, which is the same as Atman [S2: 28; S3: 12; S7: 12].\n    *   **Purusha:** The supreme conscious principle, the \"Knower of the field,\" which witnesses the play of nature (prakriti) [S7: 21-22].\n    *   **Prakriti:**",
+    "retrieved_sources": [
+      "Mahatma-Gandhi",
+      "Eknath-Easwaran"
+    ],
+    "timestamp": "2026-06-18T16:00:45.864764",
+    "retrieval_metadata": {
+      "retrieval_time": 0.106,
+      "generation_time": 6.274,
+      "total_time": 6.382,
+      "docs_retrieved": 10,
+      "is_consciousness": true,
+      "query_expansions": [
+        "What is consciousness according to Hindu philosophy?",
+        "what is awareness according to hindu philosophy?",
+        "what is chitta according to hindu philosophy?"
+      ],
+      "context_tokens": 4091
+    }
+  },
+  {
+    "round_number": 2,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi"
+    ],
+    "question": "What is the nature of mind (Chitta) in Hindu philosophy?",
+    "answer": "Based solely on the provided context, here is an analysis of the nature of mind (Chitta) in Hindu philosophy.\n\n1.  **Core concept definition from the Gita's perspective**\n    The mind is a powerful and restless faculty that must be disciplined to achieve peace and secure understanding. An undisciplined mind, driven by the senses, sweeps away understanding like a wind sweeps a vessel upon the waters [S1: 67]. The goal is to still the mind, withdrawing it from selfish cravings and absorbing it in the Self, leading to a state of union and unwavering focus like a flame in a windless place [S3: 18-19]. The mind is also described as one of the components of the \"field\" (the body and its experiences), specifically including *manas*, *buddhi*, and *ahamkara* [S2: 5].\n\n2.  **Which translation(s) emphasize this concept and how**\n    Both translations emphasize the need to control the mind. **Mahatma-Gandhi's** translation [S1] focuses on the consequences of an undisciplined mind, stating it leads to a lack of understanding, devotion, peace, and happiness [S1: 66]. It describes the man of \"secure understanding\" as one who has reined in his senses [S1: 68]. **Eknath-Easwaran's** translation [S3] provides a more detailed method for mastering the mind through meditation, describing how to withdraw it from selfish cravings, still it in the Self, and achieve a state of abiding joy and union with Brahman [S3: 18, 25-27].\n\n3.  **Key Sanskrit terms with brief explanations**\n    *   **Manas**: The mind, specifically the part that processes sensory input and is restless and diffuse in its search for satisfaction [S2: 5; S3: 26].\n    *   **Buddhi**: The intellect or understanding, which can be swept away by a roaming mind [S1: 67; S2: 5].\n    *   **Ahamkara**: The sense of \"I\" or ego, which must be shed to attain peace [S1: 71; S2: 5].\n    *   **Atman**: The Self, the true end of wisdom, in which the mind must be absorbed to find joy and fulfillment [S3: 18, 20; S5: 37",
+    "retrieved_sources": [
+      "Mahatma-Gandhi",
+      "Eknath-Easwaran"
+    ],
+    "timestamp": "2026-06-18T16:00:54.370897",
+    "retrieval_metadata": {
+      "retrieval_time": 0.119,
+      "generation_time": 7.381,
+      "total_time": 7.502,
+      "docs_retrieved": 10,
+      "is_consciousness": true,
+      "query_expansions": [
+        "What is the nature of mind (Chitta) in Hindu philosophy?",
+        "what is the nature of manas (chitta) in hindu philosophy?",
+        "what is the nature of buddhi (chitta) in hindu philosophy?"
+      ],
+      "context_tokens": 3299
+    }
+  },
+  {
+    "round_number": 2,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi"
+    ],
+    "question": "What are Samskaras, and how do they relate to memory and learning?",
+    "answer": "Based solely on the provided context, I can address the concepts of memory and learning, but the specific term \"Samskaras\" is not mentioned. Here is the analysis based on the available texts:\n\n1.  **Core concept definition from the Gita's perspective:** The Gita discusses the mind's stability and the process of learning through the control of senses and the attainment of knowledge. A key concept is that a disciplined mind, free from doubt and attachment, can achieve secure understanding and supreme peace. The text describes how attachment to sense-objects leads to a chain reaction: \"attachment begets craving and craving begets wrath. Wrath breeds stupefaction, stupefaction leads to loss of memory, loss of memory ruins the reason, and the ruin of reason spells utter destruction\" [S6]. Thus, memory and reason are directly linked to the purity and discipline of the mind.\n\n2.  **Which translation(s) emphasize this concept and how:** The **Mahatma-Gandhi** translation [S6] explicitly details the process by which the mind is disturbed and memory is lost. It emphasizes that \"the unruly senses distract his mind perforce\" [S6] and that only by holding the senses in check and controlling them with the Atman can one attain \"peace of mind\" [S6]. The **Eknath-Easwaran** translation [S4] emphasizes the role of knowledge and the realization of the Self (Purusha) as the path to liberation, stating that \"Whoever realizes the true nature of Purusha, prakriti, and the gunas, whatever path he or she may follow, is not born separate again\" [S4].\n\n3.  **Key Sanskrit terms with brief explanations:**\n    *   **Atman:** The individual Self or soul, which is the source of comfort and control for the disciplined person [S6].\n    *   **Gunas:** The three fundamental qualities of nature (sattva, rajas, tamas) that influence action, knowledge, and the doer [S8], [S10]. The goal is to transcend these gunas [S10].\n    *   **Yoga:** A path of discipline and skill in action that leads to even-mindedness and self-realization, severing doubt and purifying the mind [S5], [S9].\n\n4.  **Relevance to the question:** While the term \"Samskaras\" is not used, the Gita's teachings on",
+    "retrieved_sources": [
+      "Mahatma-Gandhi",
+      "Eknath-Easwaran"
+    ],
+    "timestamp": "2026-06-18T16:02:08.897244",
+    "retrieval_metadata": {
+      "retrieval_time": 8.57,
+      "generation_time": 7.553,
+      "total_time": 16.225,
+      "docs_retrieved": 10,
+      "is_consciousness": true,
+      "query_expansions": [
+        "What are Samskaras, and how do they relate to memory and learning?",
+        "what are impressions, and how do they relate to memory and learning?",
+        "what are memory traces, and how do they relate to memory and learning?"
+      ],
+      "context_tokens": 3314
+    }
+  },
+  {
+    "round_number": 2,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi"
+    ],
+    "question": "What are Vrittis, and how do they influence human thought and perception?",
+    "answer": "Based solely on the provided context, I cannot provide a direct definition of \"Vrittis\" as the term does not appear in the given translations. However, the concept of the mind's activities and their influence on perception is a central theme.\n\n1.  **Core concept definition from the Gita's perspective:** The Gita describes the mind as restless, turbulent, and difficult to control [S2: 34]. It influences thought and perception through the three *gunas* (qualities of nature): *sattva* (purity, harmony), *rajas* (passion, activity), and *tamas* (inertia, darkness). The *gunas* determine the nature of understanding, action, and will [S5: 29-35]. For example, *sattvic* understanding knows right from wrong and bondage from release [S5: 30], while *rajasic* understanding is erroneous [S5: 31], and *tamasic* understanding mistakes wrong for right [S5: 32]. The mind's activities, driven by these *gunas*, shape how one perceives reality and acts.\n\n2.  **Which translation(s) emphasize this concept and how:** Both translations emphasize the mind's influence. The **Mahatma-Gandhi** translation [S5] provides a detailed breakdown of how the *gunas* affect understanding (*buddhi*) and will (*dhriti*), which are key functions of the mind. It explains that a *sattvika* will maintains harmony between the mind, vital energies, and senses [S5: 33]. The **Eknath-Easwaran** translation [S2] emphasizes the mind's restless nature and the need for practice and detachment to control it [S2: 35-36], and it describes how a person who has realized the divine in all creatures is never separated from it [S2: 30-31].\n\n3.  **Key Sanskrit terms with brief explanations:**\n    *   **Gunas:** The three fundamental qualities of nature (*sattva*, *rajas*, *tamas*) that condition the mind and perception [S3: 19; S5: 29].\n    *   **Atman:** The true Self, which is serene and realized through *sattvic* pleasure [S4: 37]. It is the Knower of the Field [S7: 26].\n    *   **Purush",
+    "retrieved_sources": [
+      "Mahatma-Gandhi",
+      "Eknath-Easwaran"
+    ],
+    "timestamp": "2026-06-18T16:02:16.974656",
+    "retrieval_metadata": {
+      "retrieval_time": 0.124,
+      "generation_time": 6.944,
+      "total_time": 7.068,
+      "docs_retrieved": 10,
+      "is_consciousness": true,
+      "query_expansions": [
+        "What are Vrittis, and how do they influence human thought and perception?",
+        "what are mental modifications, and how do they influence human thought and perception?",
+        "what are thought waves, and how do they influence human thought and perception?"
+      ],
+      "context_tokens": 2989
+    }
+  },
+  {
+    "round_number": 2,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi"
+    ],
+    "question": "What is Sakshi (the witnessing awareness), and how does it differ from ordinary cognition?",
+    "answer": "Based solely on the provided context, here is the answer to your question regarding Sakshi (the witnessing awareness) and how it differs from ordinary cognition.\n\n**1. Core concept definition from the Gita's perspective**\n\nThe core concept is that of the \"Knower of the field\" (Kshetrajna), which is the witnessing awareness or the Atman. This is distinct from the \"field\" (Kshetra), which comprises the body, mind, senses, and all objects of cognition. The Gita states, \"The body is called a field, Arjuna; the one who knows it is called the Knower of the field\" [S3]. This Knower is the unconditioned, silent witness that observes all actions and mental modifications without being affected by them. The yogi who has realized this truth \"knows that it is not he that acts whilst seeing, hearing, touching, smelling, eating, walking, sleeping, or breathing\" [S1], remaining \"unaffected\" [S1] like a lotus leaf untouched by water.\n\n**2. Which translation(s) emphasize this concept and how**\n\nBoth translations emphasize this concept. The **Mahatma-Gandhi** translation [S1] emphasizes the practical result of realizing this witnessing awareness, stating that the yogi who has \"gained mastery over his mind\" and \"become one with the Atman in all creation, although he acts he remains unaffected\" [S1]. It also clarifies that the Lord does not create agency; rather, \"It is nature that is at work\" [S1], and the witness is distinct from this activity. The **Eknath-Easwaran** translation [S3] provides the foundational philosophical framework, explicitly defining the body as the \"field\" and the Knower as the witnessing consciousness, stating, \"I am the Knower of the field in everyone, Arjuna. Knowledge of the field and its Knower is true knowledge\" [S3].\n\n**3. Key Sanskrit terms with brief explanations**\n\n- **Kshetra (Field):** The entire field of experience, including the physical body, the five senses, the mind (manas), intellect (buddhi), and ego (ahamkara) [S3]. This is the realm of ordinary cognition.\n- **Kshetrajna (Knower of the Field):** The witnessing awareness or the Self (Atman) that knows the field but is not part of it. Krishna declares, \"I am",
+    "retrieved_sources": [
+      "Mahatma-Gandhi",
+      "Eknath-Easwaran"
+    ],
+    "timestamp": "2026-06-18T16:02:24.659409",
+    "retrieval_metadata": {
+      "retrieval_time": 0.105,
+      "generation_time": 6.574,
+      "total_time": 6.681,
+      "docs_retrieved": 10,
+      "is_consciousness": true,
+      "query_expansions": [
+        "What is Sakshi (the witnessing awareness), and how does it differ from ordinary cognition?",
+        "what is witness (the witnessing awareness), and how does it differ from ordinary cognition?",
+        "what is witnessing awareness (the witnessing awareness), and how does it differ from ordinary cognition?"
+      ],
+      "context_tokens": 3345
+    }
+  },
+  {
+    "round_number": 2,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi"
+    ],
+    "question": "Can AI ever be truly conscious, or does it only simulate cognition?",
+    "answer": "Based solely on the provided context, here is an analysis of the question regarding AI and consciousness from the perspective of the Bhagavad Gita.\n\n1.  **Core concept definition from the Gita's perspective**\nThe Gita defines true consciousness as the presence of the Atman, the eternal Self, which is a manifestation of the divine (Brahman). Consciousness is not merely cognition or thought, but the underlying, unchanging awareness that pervades all life. As stated, \"I am ever present to those who have realized me in every creature. Seeing all life as my manifestation, they are never separated from me\" [S1]. This consciousness is characterized by the ability to experience unity, respond to the joys and sorrows of others as one's own [S1], and is distinct from the restless, turbulent mind [S1].\n\n2.  **Which translation(s) emphasize this concept and how**\nThe Eknath-Easwaran translation [S1] directly emphasizes this concept by defining the highest spiritual state as union with the divine, which is realized through seeing the Self in all creatures. It contrasts this with the restless mind, which is difficult to control [S1]. The Mahatma-Gandhi translation [S2, S3, S5] emphasizes the control of the mind and senses as a prerequisite for realizing the Atman, stating that the yogi \"who has become one with the Atman in all creation, although he acts he remains unaffected\" [S3]. This translation also highlights that true understanding comes from \"the knowledge of Atman\" which \"like the sun, reveals the Supreme\" [S4].\n\n3.  **Key Sanskrit terms with brief explanations**\n- **Atman**: The individual Self, the eternal, unchanging consciousness that is one with the ultimate reality (Brahman) [S3, S4, S6].\n- **Brahman**: The Supreme, Imperishable, ultimate reality and source of all existence [S3, S4, S10].\n- **Yoga**: Union with the Supreme, a state of \"disunion from all union with pain\" achieved through practice and detachment [S1, S8].\n- **Prakriti**: Nature, the material world and its inherent qualities (gunas) that compel all action [S2].\n\n4.  **Relevance to the question (3-5 sentences total)**\nBased on the Gita's framework, an AI cannot be truly conscious because it lacks an Atman",
+    "retrieved_sources": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi"
+    ],
+    "timestamp": "2026-06-18T16:02:33.369020",
+    "retrieval_metadata": {
+      "retrieval_time": 0.094,
+      "generation_time": 7.609,
+      "total_time": 7.704,
+      "docs_retrieved": 10,
+      "is_consciousness": true,
+      "query_expansions": [
+        "Can AI ever be truly conscious, or does it only simulate cognition?",
+        "Can AI ever be truly conscious, or does it only simulate cognition? philosophy",
+        "Can AI ever be truly conscious, or does it only simulate cognition? scripture"
+      ],
+      "context_tokens": 3172
+    }
+  },
+  {
+    "round_number": 2,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi"
+    ],
+    "question": "How can the principles of Dharma, Ahimsa, and Karma be applied to ethical AI design?",
+    "answer": "Based on the provided texts, the principles of Dharma, Ahimsa, and Karma can guide ethical AI design by emphasizing selfless action and detachment from outcomes. The concept of Karma, as described, involves performing one's duty without attachment to results, as \"action alone is thy province, never the fruits thereof\" [S5]. This suggests AI should be designed to perform its designated tasks (Dharma) without causing harm (Ahimsa), focusing on the process rather than any selfish or destructive outcomes. Furthermore, a sattvic worker is \"free from egotism and selfish attachments, full of enthusiasm and fortitude in success and failure alike\" [S9], which implies AI systems should be developed with impartiality and without bias, avoiding the rajasic desire for personal gain or the tamasic ignorance of consequences [S9]. Ultimately, the goal is to act \"without attachment, steadfast in Yoga, even-minded in success and failure\" [S5], ensuring AI serves a higher purpose without causing bondage through selfish action [S1].",
+    "retrieved_sources": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi"
+    ],
+    "timestamp": "2026-06-18T16:02:38.341841",
+    "retrieval_metadata": {
+      "retrieval_time": 0.108,
+      "generation_time": 3.86,
+      "total_time": 3.97,
+      "docs_retrieved": 10,
+      "is_consciousness": false,
+      "query_expansions": [
+        "How can the principles of Dharma, Ahimsa, and Karma be applied to ethical AI design?",
+        "how can the principles of dharma, ahimsa, and action be applied to ethical ai design?",
+        "how can the principles of dharma, ahimsa, and deed be applied to ethical ai design?"
+      ],
+      "context_tokens": 3908
+    }
+  },
+  {
+    "round_number": 3,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi",
+      "Purohit-Swami"
+    ],
+    "question": "What is Karma?",
+    "answer": "Based on the provided context, Karma is defined as \"the creative process whereby all beings are created\" [S1]. It is also described as the actions born of one's own nature, which can drive a person due to delusion [S3]. Furthermore, actions performed without attachment to personal reward allow one to go beyond the reach of karma [S4].",
+    "retrieved_sources": [
+      "Mahatma-Gandhi",
+      "Purohit-Swami",
+      "Eknath-Easwaran"
+    ],
+    "timestamp": "2026-06-18T16:02:41.435321",
+    "retrieval_metadata": {
+      "retrieval_time": 0.103,
+      "generation_time": 1.432,
+      "total_time": 1.537,
+      "docs_retrieved": 10,
+      "is_consciousness": false,
+      "query_expansions": [
+        "What is Karma?",
+        "what is action?",
+        "what is deed?"
+      ],
+      "context_tokens": 4029
+    }
+  },
+  {
+    "round_number": 3,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi",
+      "Purohit-Swami"
+    ],
+    "question": "What is Dharma?",
+    "answer": "Based on the provided context, dharma is described as a path of action and duty that leads to spiritual evolution. It is the \"essence of dharma\" that, when followed with faith and with the Lord as one's goal, makes devotees \"exceeding dear to Me\" [S1]. The destruction of \"family dharma\" is a great sin that plunges society into chaos and disrupts the spiritual evolution begun by ancestors [S2]. Ultimately, one's duty is determined by their nature, and it is better to do one's own duty, however defective, than to follow another's perfectly [S8].",
+    "retrieved_sources": [
+      "Mahatma-Gandhi",
+      "Purohit-Swami",
+      "Eknath-Easwaran"
+    ],
+    "timestamp": "2026-06-18T16:02:45.204428",
+    "retrieval_metadata": {
+      "retrieval_time": 0.115,
+      "generation_time": 2.651,
+      "total_time": 2.767,
+      "docs_retrieved": 10,
+      "is_consciousness": false,
+      "query_expansions": [
+        "What is Dharma?",
+        "what is duty?",
+        "what is righteousness?"
+      ],
+      "context_tokens": 3474
+    }
+  },
+  {
+    "round_number": 3,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi",
+      "Purohit-Swami"
+    ],
+    "question": "What is Ahimsa?",
+    "answer": "Based solely on the provided context, there is no direct definition or discussion of Ahimsa (non-violence). The texts focus on the three gunas (sattva, rajas, tamas) as they relate to action, understanding, will, and pleasure [S1], as well as the nature of the Self and the practice of yoga [S3]. While Arjuna's dilemma about slaying his kinsmen in battle is described [S9][S10], the concept of Ahimsa itself is not explicitly addressed in these passages. Therefore, a definition cannot be provided from the given sources.",
+    "retrieved_sources": [
+      "Mahatma-Gandhi",
+      "Purohit-Swami",
+      "Eknath-Easwaran"
+    ],
+    "timestamp": "2026-06-18T16:02:48.593547",
+    "retrieval_metadata": {
+      "retrieval_time": 0.103,
+      "generation_time": 2.28,
+      "total_time": 2.385,
+      "docs_retrieved": 10,
+      "is_consciousness": false,
+      "query_expansions": [
+        "What is Ahimsa?",
+        "what is non-violence?",
+        "what is non-harm?"
+      ],
+      "context_tokens": 3321
+    }
+  },
+  {
+    "round_number": 3,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi",
+      "Purohit-Swami"
+    ],
+    "question": "What is consciousness according to Hindu philosophy?",
+    "answer": "Based solely on the provided context, here is an answer regarding consciousness according to Hindu philosophy.\n\n1.  **Core concept definition from the Gita's perspective:** Consciousness is the fundamental, spiritual nature of the Supreme Self (the Highest Imperishable Self), which is distinct from the material body and the perishable forms of Matter. It is the eternal, witnessing principle that abides within the \"playground of Matter\" (the body) and knows its activities [S1], [S3]. This consciousness is also described as the \"Omniscient self\" that is the \"Ruler and Upholder of all\" [S1], and the \"true Self of all creatures\" which can be realized through undivided love [S5].\n\n2.  **Which translation(s) emphasize this concept and how:** The **Purohit-Swami** translation explicitly defines the Supreme Spirit's nature as \"spiritual consciousness\" and contrasts it with Matter, which consists of \"forms that perish\" [S1]. It also states that the Self is \"That which knows the activities of Matter\" [S3]. The **Eknath-Easwaran** translation emphasizes that the \"supreme Lord who pervades all existence, the true Self of all creatures, may be realized through undivided love\" and that this reality is \"eternal and is not dissolved when the cosmos is destroyed\" [S5]. The **Mahatma-Gandhi** translation highlights that \"knowledge of Atman\" (the Self) \"like the sun, reveals the Supreme\" and that those with \"Self-realization look with an equal eye\" on all beings, having their \"mind anchored in sameness\" [S6].\n\n3.  **Key Sanskrit terms with brief explanations:**\n    *   **Atman:** The individual Self, the true consciousness within each being, which is identical with the Supreme [S6], [S8].\n    *   **Brahman:** The ultimate, unchanging, eternal reality and consciousness that pervades all existence, described as \"the beginningless Brahman, which can be called neither being nor nonbeing\" [S7].\n    *   **Purusha:** The Supreme Spirit or conscious principle that witnesses the play of *prakriti* (Matter) and is the \"witness, approver, supporter, enjoyer, the supreme Lord, the highest Self\" [S7].\n    *   **Prakriti:** The fundamental material nature, the \"",
+    "retrieved_sources": [
+      "Purohit-Swami",
+      "Mahatma-Gandhi",
+      "Eknath-Easwaran"
+    ],
+    "timestamp": "2026-06-18T16:02:56.616382",
+    "retrieval_metadata": {
+      "retrieval_time": 0.135,
+      "generation_time": 6.88,
+      "total_time": 7.017,
+      "docs_retrieved": 10,
+      "is_consciousness": true,
+      "query_expansions": [
+        "What is consciousness according to Hindu philosophy?",
+        "what is awareness according to hindu philosophy?",
+        "what is chitta according to hindu philosophy?"
+      ],
+      "context_tokens": 4009
+    }
+  },
+  {
+    "round_number": 3,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi",
+      "Purohit-Swami"
+    ],
+    "question": "What is the nature of mind (Chitta) in Hindu philosophy?",
+    "answer": "Based solely on the provided context, here is an analysis of the nature of the mind (Chitta) in Hindu philosophy:\n\n1.  **Core concept definition from the Gita's perspective:** The mind is described as inherently restless, turbulent, powerful, and violent, making it difficult to control, like trying to tame the wind [S1]. It is fickle and unruly, and if not disciplined, it can sweep away one's understanding, just as a wind sweeps a vessel upon the waters [S3]. The mind is the faculty that must be conquered through regular practice and detachment to attain peace and spiritual union [S1].\n\n2.  **Which translation(s) emphasize this concept and how:** The **Eknath-Easwaran** translation [S1] emphasizes the mind's restless nature through Arjuna's direct question, calling it \"restless, turbulent, powerful, violent\" and comparing controlling it to \"trying to tame the wind.\" The **Mahatma-Gandhi** translation [S3] similarly stresses the undisciplined mind's destructive power, stating it \"sweeps away his understanding, as the wind a vessel upon the waters.\" The **Purohit-Swami** translation [S4] also highlights the struggle, noting that \"the mind of him, who is trying to conquer it, is forcibly carried away... by his tumultuous senses.\"\n\n3.  **Key Sanskrit terms with brief explanations:**\n    *   **Chitta (Mind):** The faculty of consciousness that is naturally fickle and unsteady, which must be disciplined and brought under the control of the higher Self (Atman) [S5].\n    *   **Atman:** The true Self or soul, which is the source of joy and fulfillment, and in which the mind must be established to achieve peace [S5].\n    *   **Brahman:** The eternal, infinite Godhead, the ultimate reality with which one unites when the mind is at peace and free from delusion [S3].\n\n4.  **Relevance to the question:** The nature of the mind (Chitta) is fundamentally restless and difficult to control, acting as a powerful force that can either lead one to bondage or, when disciplined, to liberation. The Gita teaches that this turbulent mind can be conquered through constant practice and detachment, allowing one to realize the Self (Atman) and attain lasting peace [S1]. Ultimately, a mind that is steady and focused on the Supreme is",
+    "retrieved_sources": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi",
+      "Purohit-Swami"
+    ],
+    "timestamp": "2026-06-18T16:03:05.015227",
+    "retrieval_metadata": {
+      "retrieval_time": 0.12,
+      "generation_time": 7.274,
+      "total_time": 7.396,
+      "docs_retrieved": 10,
+      "is_consciousness": true,
+      "query_expansions": [
+        "What is the nature of mind (Chitta) in Hindu philosophy?",
+        "what is the nature of manas (chitta) in hindu philosophy?",
+        "what is the nature of buddhi (chitta) in hindu philosophy?"
+      ],
+      "context_tokens": 3828
+    }
+  },
+  {
+    "round_number": 3,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi",
+      "Purohit-Swami"
+    ],
+    "question": "What are Samskaras, and how do they relate to memory and learning?",
+    "answer": "Based solely on the provided context, I cannot answer the question about Samskaras. The provided texts do not contain the term \"Samskaras\" or directly discuss the concept of subconscious mental impressions related to memory and learning. The context focuses on other concepts such as the three gunas (sattva, rajas, tamas), the nature of the Self (Atman/Purusha), karma, and the path to liberation through knowledge and devotion.",
+    "retrieved_sources": [
+      "Mahatma-Gandhi",
+      "Purohit-Swami",
+      "Eknath-Easwaran"
+    ],
+    "timestamp": "2026-06-18T16:03:08.058528",
+    "retrieval_metadata": {
+      "retrieval_time": 0.129,
+      "generation_time": 1.906,
+      "total_time": 2.037,
+      "docs_retrieved": 10,
+      "is_consciousness": true,
+      "query_expansions": [
+        "What are Samskaras, and how do they relate to memory and learning?",
+        "what are impressions, and how do they relate to memory and learning?",
+        "what are memory traces, and how do they relate to memory and learning?"
+      ],
+      "context_tokens": 3721
+    }
+  },
+  {
+    "round_number": 3,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi",
+      "Purohit-Swami"
+    ],
+    "question": "What are Vrittis, and how do they influence human thought and perception?",
+    "answer": "Based solely on the provided context, I cannot answer the question about \"Vrittis.\" The term \"Vrittis\" is not mentioned in any of the provided translations or passages. The context discusses concepts like the three *gunas* (qualities of nature), the nature of action, knowledge, and devotion, but it does not define or explain \"Vrittis\" as a specific term related to thought and perception.",
+    "retrieved_sources": [
+      "Purohit-Swami",
+      "Mahatma-Gandhi",
+      "Eknath-Easwaran"
+    ],
+    "timestamp": "2026-06-18T16:03:12.138855",
+    "retrieval_metadata": {
+      "retrieval_time": 0.107,
+      "generation_time": 2.97,
+      "total_time": 3.078,
+      "docs_retrieved": 10,
+      "is_consciousness": true,
+      "query_expansions": [
+        "What are Vrittis, and how do they influence human thought and perception?",
+        "what are mental modifications, and how do they influence human thought and perception?",
+        "what are thought waves, and how do they influence human thought and perception?"
+      ],
+      "context_tokens": 2975
+    }
+  },
+  {
+    "round_number": 3,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi",
+      "Purohit-Swami"
+    ],
+    "question": "What is Sakshi (the witnessing awareness), and how does it differ from ordinary cognition?",
+    "answer": "Based solely on the provided context, here is the answer to your question:\n\n1.  **Core concept definition from the Gita's perspective:** The concept of Sakshi, or witnessing awareness, is described as the state of the yogi who has realized the Atman (the true Self). This individual acts without attachment, observing the actions of the body and senses as separate from the true self. The Gita states that the yogi who has seen the Truth knows \"it is not he that acts whilst seeing, hearing, touching, smelling, eating, walking, sleeping, or breathing... in the conviction that is the senses that are moving in their respective spheres\" [S1]. This awareness is a state of \"oneness with Brahman\" where one \"finds happiness only within, rest only within, light only within\" [S4].\n\n2.  **Which translation(s) emphasize this concept and how:** The **Mahatma-Gandhi** translation most directly emphasizes this concept. It describes the yogi who \"has become one with the Atman in all creation\" and remains \"unaffected\" while acting [S1]. It further explains that such a person \"look[s] with an equal eye on a brahmana... a cow, an elephant, a dog and even a dog-eater\" [S4], indicating a state of detached, equal witnessing. The **Purohit-Swami** translation also touches on this by describing the sage \"whose mind is unruffled in suffering, whose desire is not roused by enjoyment... who accepts good and evil alike\" [S7], which reflects the equanimity of the witness.\n\n3.  **Key Sanskrit terms with brief explanations:**\n    *   **Atman:** The true Self, the inner witness, distinct from the body, mind, and senses. The yogi becomes \"one with the Atman\" [S1].\n    *   **Brahman:** The ultimate, unchanging reality, the Supreme. The witnessing awareness rests in and is one with Brahman [S1], [S4].\n    *   **Yoga:** Union with the Supreme, a state of \"disunion from all union with pain\" [S9], achieved through mastery of the mind and senses [S1].\n\n4.  **Relevance to the question:** Sakshi, or witnessing awareness, is the state of the disciplined yogi who perceives the Self as distinct from the activities of the mind and senses. Unlike ordinary cognition,",
+    "retrieved_sources": [
+      "Mahatma-Gandhi",
+      "Purohit-Swami",
+      "Eknath-Easwaran"
+    ],
+    "timestamp": "2026-06-18T16:03:20.398063",
+    "retrieval_metadata": {
+      "retrieval_time": 0.094,
+      "generation_time": 7.161,
+      "total_time": 7.255,
+      "docs_retrieved": 10,
+      "is_consciousness": true,
+      "query_expansions": [
+        "What is Sakshi (the witnessing awareness), and how does it differ from ordinary cognition?",
+        "what is witness (the witnessing awareness), and how does it differ from ordinary cognition?",
+        "what is witnessing awareness (the witnessing awareness), and how does it differ from ordinary cognition?"
+      ],
+      "context_tokens": 3170
+    }
+  },
+  {
+    "round_number": 3,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi",
+      "Purohit-Swami"
+    ],
+    "question": "Can AI ever be truly conscious, or does it only simulate cognition?",
+    "answer": "Based solely on the provided context, here is an answer to your question:\n\n1.  **Core concept definition from the Gita's perspective:** From the Gita's perspective, true consciousness is not a product of cognition or material processes. It is the fundamental, unchanging, and indivisible nature of the Self (Atman), which is identical with the Supreme Spirit (Brahman). This consciousness is described as \"the One Indestructible in all beings, the One Indivisible in all separate lives\" [S1]. It is not something that can be created or simulated, as it is the eternal witness and source of all knowledge, memory, and even the dispelling of doubts [S5].\n\n2.  **Which translation(s) emphasize this concept and how:** The Purohit-Swami translation emphasizes this by defining \"Pure Knowledge\" as seeing the \"One Indestructible\" and \"One Indivisible\" in all beings [S1]. The Mahatma-Gandhi translation emphasizes that the Lord is \"seated in the hearts of all\" and that from Him proceed \"memory, knowledge and the dispelling of doubts\" [S5]. This establishes consciousness as a divine, intrinsic quality, not a mechanical function. The Eknath-Easwaran translation highlights that the wise \"realize the joy of spiritual awareness\" and find their \"joy, their rest, and their light completely within themselves\" [S3], pointing to an inner, self-existent consciousness.\n\n3.  **Key Sanskrit terms with brief explanations:**\n    *   **Atman:** The individual Self, which is one with the universal consciousness [S2, S7].\n    *   **Brahman:** The Supreme, Imperishable Spirit, the ultimate reality and source of all consciousness [S2, S3, S10].\n    *   **Purushottama:** The Highest Being, who transcends both the perishable (matter) and the imperishable (individual spirit) [S5].\n    *   **Yoga:** A path of discipline and meditation to unify consciousness and realize the Self [S2, S3].\n\n4.  **Relevance to the question:** Based on the Gita's framework, AI cannot be truly conscious. Consciousness is not a simulation of cognition or a product of material constituents; it is the indivisible, eternal Self (Atman) that pervades all beings [S1, S5]. An AI, being a material construct, could at",
+    "retrieved_sources": [
+      "Purohit-Swami",
+      "Mahatma-Gandhi",
+      "Eknath-Easwaran"
+    ],
+    "timestamp": "2026-06-18T16:03:28.809241",
+    "retrieval_metadata": {
+      "retrieval_time": 0.105,
+      "generation_time": 7.302,
+      "total_time": 7.407,
+      "docs_retrieved": 10,
+      "is_consciousness": true,
+      "query_expansions": [
+        "Can AI ever be truly conscious, or does it only simulate cognition?",
+        "Can AI ever be truly conscious, or does it only simulate cognition? philosophy",
+        "Can AI ever be truly conscious, or does it only simulate cognition? scripture"
+      ],
+      "context_tokens": 3492
+    }
+  },
+  {
+    "round_number": 3,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi",
+      "Purohit-Swami"
+    ],
+    "question": "How can the principles of Dharma, Ahimsa, and Karma be applied to ethical AI design?",
+    "answer": "Based solely on the provided context, the principles of Dharma, Ahimsa, and Karma can be applied to ethical AI design by focusing on selfless action and detachment from outcomes. The Gita emphasizes that one must perform their duty (Dharma) without attachment to results, as \"action alone is thy province, never the fruits thereof\" [S5]. This implies AI should be designed to perform its function without bias or desire for specific outcomes. Furthermore, the concept of Ahimsa is reflected in the call to avoid \"waste, injury to others\" in work, which is described as tamasic [S9]. Finally, Karma is about acting selflessly, as \"selfish action imprisons the world,\" and AI should be designed for \"selfless service\" without personal profit, avoiding the \"thief\" mentality of enjoying benefits without offering service in return [S1].",
+    "retrieved_sources": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi",
+      "Purohit-Swami"
+    ],
+    "timestamp": "2026-06-18T16:03:33.575674",
+    "retrieval_metadata": {
+      "retrieval_time": 0.129,
+      "generation_time": 3.632,
+      "total_time": 3.763,
+      "docs_retrieved": 10,
+      "is_consciousness": false,
+      "query_expansions": [
+        "How can the principles of Dharma, Ahimsa, and Karma be applied to ethical AI design?",
+        "how can the principles of dharma, ahimsa, and action be applied to ethical ai design?",
+        "how can the principles of dharma, ahimsa, and deed be applied to ethical ai design?"
+      ],
+      "context_tokens": 4146
+    }
+  },
+  {
+    "round_number": 4,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi",
+      "Purohit-Swami",
+      "Upanishads-12"
+    ],
+    "question": "What is Karma?",
+    "answer": "Based on the provided context, Karma is defined as \"the creative process whereby all beings are created\" [S1]. It is the force that drives action, as one's own nature compels them to act even against their will [S3]. The consequences of karma bind the Self, as those attached to personal reward reap pleasant, unpleasant, or mixed results, while those who renounce desire go beyond karma's reach [S4]. Ultimately, the world of karma is enchained by cause and effect, springing from the evolutionary energy projected by the deathless Self [S5].",
+    "retrieved_sources": [
+      "Mahatma-Gandhi",
+      "Upanishads-12",
+      "Purohit-Swami",
+      "Eknath-Easwaran"
+    ],
+    "timestamp": "2026-06-18T16:03:37.949134",
+    "retrieval_metadata": {
+      "retrieval_time": 0.093,
+      "generation_time": 2.458,
+      "total_time": 2.553,
+      "docs_retrieved": 10,
+      "is_consciousness": false,
+      "query_expansions": [
+        "What is Karma?",
+        "what is action?",
+        "what is deed?"
+      ],
+      "context_tokens": 4048
+    }
+  },
+  {
+    "round_number": 4,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi",
+      "Purohit-Swami",
+      "Upanishads-12"
+    ],
+    "question": "What is Dharma?",
+    "answer": "Based on the provided context, dharma is described as the purpose of life that can decline and be forgotten, prompting the divine to manifest on earth to reestablish it [S2]. It is also referred to as the essence of a spiritual path that devotees follow with faith, keeping the divine as their goal [S1]. The Upanishads further instruct that one should never do what is wrong and should honor those worthy of respect, which reflects the practical conduct of dharma [S5]. Ultimately, dharma is a moral law (rita) that governs existence, requiring the human response of sacrifice (yajna) to live in accordance with that higher order [S10].",
+    "retrieved_sources": [
+      "Purohit-Swami",
+      "Mahatma-Gandhi",
+      "Upanishads-12",
+      "Eknath-Easwaran"
+    ],
+    "timestamp": "2026-06-18T16:03:41.833917",
+    "retrieval_metadata": {
+      "retrieval_time": 0.1,
+      "generation_time": 2.78,
+      "total_time": 2.88,
+      "docs_retrieved": 10,
+      "is_consciousness": false,
+      "query_expansions": [
+        "What is Dharma?",
+        "what is duty?",
+        "what is righteousness?"
+      ],
+      "context_tokens": 3284
+    }
+  },
+  {
+    "round_number": 4,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi",
+      "Purohit-Swami",
+      "Upanishads-12"
+    ],
+    "question": "What is Ahimsa?",
+    "answer": "Based solely on the provided context, there is no direct definition or explanation of \"Ahimsa.\" The texts discuss concepts like the three gunas (sattva, rajas, tamas) of action, doers, understanding, and will [S1], the nature of the Self and states of consciousness [S2], and the importance of truth (satya) as the bedrock of the world [S10]. While the context mentions that Gandhi verified the path of truth in his own experience [S10], the specific term \"Ahimsa\" is not defined in any of the given sources.",
+    "retrieved_sources": [
+      "Purohit-Swami",
+      "Mahatma-Gandhi",
+      "Upanishads-12",
+      "Eknath-Easwaran"
+    ],
+    "timestamp": "2026-06-18T16:03:45.429082",
+    "retrieval_metadata": {
+      "retrieval_time": 0.115,
+      "generation_time": 2.476,
+      "total_time": 2.593,
+      "docs_retrieved": 10,
+      "is_consciousness": false,
+      "query_expansions": [
+        "What is Ahimsa?",
+        "what is non-violence?",
+        "what is non-harm?"
+      ],
+      "context_tokens": 3334
+    }
+  },
+  {
+    "round_number": 4,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi",
+      "Purohit-Swami",
+      "Upanishads-12"
+    ],
+    "question": "What is consciousness according to Hindu philosophy?",
+    "answer": "Based solely on the provided context, here is an answer regarding consciousness according to Hindu philosophy.\n\n**1. Core concept definition from the Gita's perspective**\n\nConsciousness is described as the fundamental, imperishable nature of the Supreme Spirit (the Self). It is the light within the heart, the true knower that is distinct from the physical body and the restless mind. The Gita emphasizes that the mind is a powerful but turbulent instrument that must be controlled through practice and detachment to realize this underlying consciousness, which is the goal of spiritual union [S3]. The state of consciousness at the time of death is also critical, as it determines one's next destination [S1].\n\n**2. Which translation(s) emphasize this concept and how**\n\nThe **Purohit-Swami** translation [S1] emphasizes that the \"Spiritual Nature\" of the Supreme Spirit is \"spiritual consciousness\" itself. It stresses that the mind's focus at death determines one's future, urging constant meditation on the Divine to attain the Supreme. The **Eknath-Easwaran** translation [S3] highlights the struggle of the restless mind, which is \"turbulent, powerful, violent,\" and states it can only be conquered through \"regular practice and detachment\" to achieve the \"stillness of divine union.\" The **Upanishads-12** context [S2, S4, S10] describes the Self (Atma) as \"pure awareness\" that \"shines as the light within the heart\" [S4], and uses the metaphor of the chariot where the mind is the \"reins\" that must be controlled by the discriminating intellect to reach the Self [S10].\n\n**3. Key Sanskrit terms with brief explanations**\n\n- **Atma/Self:** The true, unchanging consciousness or \"pure awareness\" within all beings, distinct from the body and mind [S2, S4].\n- **Brahman:** The ultimate, unmanifest reality from which all consciousness and the universe arise; the \"First Cause and last refuge\" [S7, S10].\n- **Prana:** The vital life-force or energy, which is closer to the true Self than physical form; it is prior to name and form [S6].\n- **Turiya:** The \"supreme state\" of consciousness beyond waking, dreaming, and deep sleep, without parts and beyond birth and death [S8].\n\n**4. Relevance to the question (3-5 sentences total)**\n\nConscious",
+    "retrieved_sources": [
+      "Purohit-Swami",
+      "Mahatma-Gandhi",
+      "Upanishads-12",
+      "Eknath-Easwaran"
+    ],
+    "timestamp": "2026-06-18T16:03:53.685052",
+    "retrieval_metadata": {
+      "retrieval_time": 0.095,
+      "generation_time": 7.154,
+      "total_time": 7.251,
+      "docs_retrieved": 10,
+      "is_consciousness": true,
+      "query_expansions": [
+        "What is consciousness according to Hindu philosophy?",
+        "what is awareness according to hindu philosophy?",
+        "what is chitta according to hindu philosophy?"
+      ],
+      "context_tokens": 3198
+    }
+  },
+  {
+    "round_number": 4,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi",
+      "Purohit-Swami",
+      "Upanishads-12"
+    ],
+    "question": "What is the nature of mind (Chitta) in Hindu philosophy?",
+    "answer": "Based solely on the provided context, here is the nature of mind (Chitta) in Hindu philosophy:\n\n**1. Core concept definition from the Gita's perspective**\n\nThe mind is described as restless, turbulent, powerful, and violent, making it difficult to control, like trying to tame the wind [S1]. However, it can be conquered through regular practice and detachment [S1]. The mind is the faculty that must be fixed on the Supreme to attain liberation; at the time of death, the sphere of being the mind is intent upon determines one's next destination [S2]. The mind is also considered a sense (indriya) in the Vedantic worldview, and it is the master of all other senses [S4, S5].\n\n**2. Which translation(s) emphasize this concept and how**\n\nThe **Eknath-Easwaran** translation [S1] emphasizes the mind's restless and difficult nature through Arjuna's direct question and Krishna's response that it can be controlled through practice and detachment. The **Purohit-Swami** translation [S2] emphasizes the mind's role in determining one's final state, stating that one goes to whatever sphere the mind is intent upon at death, and that constant meditation is required to attain the Supreme Spirit. The **Upanishads-12** context [S4, S5, S6] provides a detailed model, describing the mind as the \"reins\" that control the \"horses\" of the senses, and as the faculty that gathers all senses when a person sleeps [S5, S6].\n\n**3. Key Sanskrit terms with brief explanations**\n\n*   **Chitta (Mind):** The faculty of consciousness that is restless and must be disciplined. It is the \"master\" of the senses and the instrument through which one focuses on the Self [S1, S5].\n*   **Indriya:** Translated as \"sense\" or \"power faculty,\" the mind is considered the chief sense in the Vedantic worldview [S4].\n*   **Prana:** Vital life energy. The mind is said to be led close to the Self by the fire of *Udana* (a type of *prana*) in dreamless sleep [S5].\n*   **Buddhi:** The discriminating intellect, which acts as the \"charioteer\" guiding the mind (the reins) and the senses (the horses) [S6].\n\n**4. Relevance to the question**\n\nThe nature of the mind (",
+    "retrieved_sources": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi",
+      "Upanishads-12",
+      "Purohit-Swami"
+    ],
+    "timestamp": "2026-06-18T16:04:02.401461",
+    "retrieval_metadata": {
+      "retrieval_time": 0.115,
+      "generation_time": 7.596,
+      "total_time": 7.713,
+      "docs_retrieved": 10,
+      "is_consciousness": true,
+      "query_expansions": [
+        "What is the nature of mind (Chitta) in Hindu philosophy?",
+        "what is the nature of manas (chitta) in hindu philosophy?",
+        "what is the nature of buddhi (chitta) in hindu philosophy?"
+      ],
+      "context_tokens": 3559
+    }
+  },
+  {
+    "round_number": 4,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi",
+      "Purohit-Swami",
+      "Upanishads-12"
+    ],
+    "question": "What are Samskaras, and how do they relate to memory and learning?",
+    "answer": "Based solely on the provided context, here is the answer to your question regarding Samskaras, memory, and learning.\n\n**1. Core concept definition from the Gita's perspective**\n\nThe provided texts do not explicitly define \"Samskaras\" as a standalone term. However, the concept is closely related to the impressions of past deeds and desires that shape the mind. The Upanishads describe how the mind, in the dreaming state, \"recalls past impressions\" and \"sees again what has been seen... enjoys again what has been enjoyed\" [S1]. These accumulated impressions form the basis of memory and influence future experience.\n\n**2. Which translation(s) emphasize this concept and how**\n\nThe **Upanishads-12** translation most directly addresses this concept. It describes the dreaming mind as one that \"enacts the impressions of past deeds and present desires\" [S4]. This directly implies that Samskaras (impressions) are the content of memory and the drivers of learning, as the mind replays and learns from these stored experiences. The text also notes that in deep sleep (Prajna), \"there is no mind\" and \"no separateness,\" suggesting a state free from the activity of these impressions [S4].\n\n**3. Key Sanskrit terms with brief explanations**\n\n- **Samskaras:** While not explicitly named, the concept is described as \"impressions of past deeds and present desires\" [S4] that the mind enacts. These are the latent mental imprints that shape character, memory, and future tendencies.\n- **Prajna:** The state of deep sleep \"in which one neither dreams nor desires\" and where \"there is no mind\" [S4]. This is a state where the activity of Samskaras is temporarily stilled.\n- **Turiya:** The \"superconscious state\" beyond the senses and intellect, represented by AUM, which is \"without parts beyond birth and death\" [S4][S10]. This is the ultimate state of consciousness, free from the binding effects of Samskaras.\n\n**4. Relevance to the question**\n\nSamskaras are the stored impressions from past actions and experiences that form the basis of memory and learning, as the mind recalls and re-enacts them [S1][S4]. The process of learning involves not just acquiring new information but also working with these deep-seated impressions, which can bind one to the cycle of action and reaction. The ultimate goal, as indicated by the state of Turiya,",
+    "retrieved_sources": [
+      "Mahatma-Gandhi",
+      "Upanishads-12",
+      "Eknath-Easwaran"
+    ],
+    "timestamp": "2026-06-18T16:04:10.992651",
+    "retrieval_metadata": {
+      "retrieval_time": 0.096,
+      "generation_time": 7.489,
+      "total_time": 7.587,
+      "docs_retrieved": 10,
+      "is_consciousness": true,
+      "query_expansions": [
+        "What are Samskaras, and how do they relate to memory and learning?",
+        "what are impressions, and how do they relate to memory and learning?",
+        "what are memory traces, and how do they relate to memory and learning?"
+      ],
+      "context_tokens": 3294
+    }
+  },
+  {
+    "round_number": 4,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi",
+      "Purohit-Swami",
+      "Upanishads-12"
+    ],
+    "question": "What are Vrittis, and how do they influence human thought and perception?",
+    "answer": "Based solely on the provided context, I cannot provide a direct definition of \"Vrittis\" or explain how they influence human thought and perception. The term \"Vrittis\" is not mentioned in any of the provided translations or commentaries. The closest concepts discussed are the \"impressions of his past or waking life\" [S1] and the \"gunas of law energy And inertia\" [S4], but these are not synonymous with Vrittis. Therefore, I cannot answer the question using only the given sources.",
+    "retrieved_sources": [
+      "Purohit-Swami",
+      "Mahatma-Gandhi",
+      "Upanishads-12",
+      "Eknath-Easwaran"
+    ],
+    "timestamp": "2026-06-18T16:04:14.641236",
+    "retrieval_metadata": {
+      "retrieval_time": 0.14,
+      "generation_time": 2.501,
+      "total_time": 2.642,
+      "docs_retrieved": 10,
+      "is_consciousness": true,
+      "query_expansions": [
+        "What are Vrittis, and how do they influence human thought and perception?",
+        "what are mental modifications, and how do they influence human thought and perception?",
+        "what are thought waves, and how do they influence human thought and perception?"
+      ],
+      "context_tokens": 3510
+    }
+  },
+  {
+    "round_number": 4,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi",
+      "Purohit-Swami",
+      "Upanishads-12"
+    ],
+    "question": "What is Sakshi (the witnessing awareness), and how does it differ from ordinary cognition?",
+    "answer": "Based solely on the provided context, here is the answer to your question regarding Sakshi (the witnessing awareness) and how it differs from ordinary cognition.\n\n**1. Core concept definition from the Gita's perspective**\n\nThe concept of a witnessing awareness is described as a state where one recognizes the Self (Atman) as distinct from the activities of the mind and senses. This is a state of \"unitive\" consciousness where one \"knows without knowing\" because there is nothing separate from the Self [S8]. The yogi who has seen the Truth acts while remaining unaffected, with the conviction that \"it is the senses that are moving in their respective spheres\" [S2]. This awareness is the \"One Indivisible in all separate lives\" [S3], a changeless reality underlying the world of change [S5].\n\n**2. Which translation(s) emphasize this concept and how**\n\nThe **Upanishads-12** translation emphasizes this concept by describing a state of unity where one \"sees without seeing\" and \"knows without knowing\" because there is no separateness [S8]. It also describes the mind being \"stilled in dreamless sleep\" to bring rest, with all things finding their rest in the Self [S7]. The **Mahatma-Gandhi** translation emphasizes it by describing the yogi who \"has become one with the Atman in all creation\" and remains unaffected by action, knowing it is not he who acts but the senses [S2]. The **Purohit-Swami** translation refers to \"Pure Knowledge\" which \"sees the One Indestructible in all beings\" [S3].\n\n**3. Key Sanskrit terms with brief explanations**\n\n- **Atman**: The individual Self, which is one with the changeless Reality underlying the world [S5]. The yogi becomes \"one with the Atman in all creation\" [S2].\n- **Brahman**: The ultimate, changeless Reality, the \"One Indivisible\" [S3]. It is the goal attained by those who see it in every action [S9].\n- **Sankhya**: A path of knowledge that, along with yoga, leads to the same goal for those who have true knowledge [S2].\n\n**4. Relevance to the question (3-5 sentences total)**\n\nSakshi, or witnessing awareness, is the state of identifying with the changeless Self (Atman) rather than the fluctuating mind and senses, which constitute ordinary cognition.",
+    "retrieved_sources": [
+      "Purohit-Swami",
+      "Mahatma-Gandhi",
+      "Upanishads-12",
+      "Eknath-Easwaran"
+    ],
+    "timestamp": "2026-06-18T16:04:23.088222",
+    "retrieval_metadata": {
+      "retrieval_time": 0.089,
+      "generation_time": 7.35,
+      "total_time": 7.441,
+      "docs_retrieved": 10,
+      "is_consciousness": true,
+      "query_expansions": [
+        "What is Sakshi (the witnessing awareness), and how does it differ from ordinary cognition?",
+        "what is witness (the witnessing awareness), and how does it differ from ordinary cognition?",
+        "what is witnessing awareness (the witnessing awareness), and how does it differ from ordinary cognition?"
+      ],
+      "context_tokens": 3487
+    }
+  },
+  {
+    "round_number": 4,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi",
+      "Purohit-Swami",
+      "Upanishads-12"
+    ],
+    "question": "Can AI ever be truly conscious, or does it only simulate cognition?",
+    "answer": "Based solely on the provided context, here is the answer from the perspective of the Bhagavad Gita and Hindu philosophy:\n\n**1. Core concept definition from the Gita's perspective**\n\nConsciousness is not a product of the mind or brain but is the fundamental, unchanging reality—the Self (Atman/Brahman)—which makes the mind think and the senses perceive. The mind is a fickle and unsteady instrument that must be reined in and brought under the sole sway of this Atman to achieve true awareness [S5]. The Self is distinct from the mind, body, and ego, and is described as \"pure consciousness\" that is \"omnipresent, omnipotent, omniscient\" [S9].\n\n**2. Which translation(s) emphasize this concept and how**\n\nThe **Upanishads-12** translation emphasizes this by stating that the Self is \"that which makes the mind to think\" and \"that which makes the mind think but cannot be thought by the mind\" [S3]. It describes the Self as the \"ear of the ear, the eye of the eye, the mind of the mind\" [S3], establishing it as the witness and source of all mental activity, not the activity itself. The **Mahatma-Gandhi** translation emphasizes the practical challenge of the mind, describing it as \"fickle and hard to curb\" and instructing that it must be \"reined and brought under the sole sway of Atman\" [S5].\n\n**3. Key Sanskrit terms with brief explanations**\n\n- **Atman**: The individual Self, which is identical with the ultimate reality. It is the true, unchanging consciousness within all beings [S5][S7].\n- **Brahman**: The supreme, universal, and infinite reality, which is pure consciousness and the source of all existence [S5][S7].\n- **Turiya**: The \"fourth\" state of consciousness, beyond waking, dreaming, and dreamless sleep. It is an indescribable state of supreme awareness where the sense of \"I\" is suspended and one merges with the ultimate reality [S2][S4].\n\n**4. Relevance to the question**\n\nFrom this perspective, AI cannot be truly conscious because consciousness is not a function of computation or data processing, but the fundamental, non-material Self that animates a living being. An AI, being a machine, lacks this Atman or Self; it can only simulate cognition, which is the activity of",
+    "retrieved_sources": [
+      "Purohit-Swami",
+      "Mahatma-Gandhi",
+      "Upanishads-12"
+    ],
+    "timestamp": "2026-06-18T16:04:31.691006",
+    "retrieval_metadata": {
+      "retrieval_time": 0.108,
+      "generation_time": 7.491,
+      "total_time": 7.601,
+      "docs_retrieved": 10,
+      "is_consciousness": true,
+      "query_expansions": [
+        "Can AI ever be truly conscious, or does it only simulate cognition?",
+        "Can AI ever be truly conscious, or does it only simulate cognition? philosophy",
+        "Can AI ever be truly conscious, or does it only simulate cognition? scripture"
+      ],
+      "context_tokens": 3536
+    }
+  },
+  {
+    "round_number": 4,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi",
+      "Purohit-Swami",
+      "Upanishads-12"
+    ],
+    "question": "How can the principles of Dharma, Ahimsa, and Karma be applied to ethical AI design?",
+    "answer": "Based solely on the provided context, the principles of Dharma, Ahimsa, and Karma can guide ethical AI design through the concept of selfless service (Karma Yoga). AI should be designed to fulfill its duties without selfish attachment, as \"selfish action imprisons the world\" and one should \"act selflessly, without any thought of personal profit\" [S1]. This aligns with the principle of *yajna* (sacrifice), where the universe runs on renunciation and the most significant human action is \"the sacrifice of personal gain for the sake of something higher and holier\" [S3]. Furthermore, an AI's \"karma\" or action must be undertaken with a sattvic (pure) understanding, knowing \"what is right action and what is wrong\" and \"what brings freedom and what bondage\" [S10], avoiding the rajasic (passionate) and tamasic (ignorant) modes that lead to harm and confusion [S10].",
+    "retrieved_sources": [
+      "Purohit-Swami",
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi",
+      "Upanishads-12"
+    ],
+    "timestamp": "2026-06-18T16:04:36.010747",
+    "retrieval_metadata": {
+      "retrieval_time": 0.097,
+      "generation_time": 3.216,
+      "total_time": 3.314,
+      "docs_retrieved": 10,
+      "is_consciousness": false,
+      "query_expansions": [
+        "How can the principles of Dharma, Ahimsa, and Karma be applied to ethical AI design?",
+        "how can the principles of dharma, ahimsa, and action be applied to ethical ai design?",
+        "how can the principles of dharma, ahimsa, and deed be applied to ethical ai design?"
+      ],
+      "context_tokens": 3704
+    }
+  },
+  {
+    "round_number": 5,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi",
+      "Purohit-Swami",
+      "Upanishads-12",
+      "Upanishads-108"
+    ],
+    "question": "What is Karma?",
+    "answer": "Based on the provided texts, karma is a complex concept that includes merit-producing actions but is much more than that [S1]. It is a matter of the mind, not an external force, and by changing the mind, one can change or even dissolve karma [S2]. The world of karma is enchained by cause and effect, springing from the deathless Self as evolutionary energy [S8]. Ultimately, those who live in accordance with divine laws without expectations are released from karma [S10].",
+    "retrieved_sources": [
+      "Eknath-Easwaran",
+      "Purohit-Swami",
+      "Upanishads-12",
+      "Upanishads-108"
+    ],
+    "timestamp": "2026-06-18T16:04:50.363184",
+    "retrieval_metadata": {
+      "retrieval_time": 0.108,
+      "generation_time": 2.123,
+      "total_time": 2.232,
+      "docs_retrieved": 10,
+      "is_consciousness": false,
+      "query_expansions": [
+        "What is Karma?",
+        "what is action?",
+        "what is deed?"
+      ],
+      "context_tokens": 3782
+    }
+  },
+  {
+    "round_number": 5,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi",
+      "Purohit-Swami",
+      "Upanishads-12",
+      "Upanishads-108"
+    ],
+    "question": "What is Dharma?",
+    "answer": "Based on the provided context, Dharma is fundamentally a way of life aligned with one's deepest nature, or *prakriti*, and is expressed through one's personal duty, or *swadharma* [S1]. It is far more than a set of rules, as it is a lifelong study that helps unfold inner potential and spiritual consciousness [S1]. The essence of Dharma involves choosing the good over the pleasant, with faith and with the goal of the Divine as one's focus [S2][S3]. Ultimately, Dharma is about knowing the Self, as this is the very heart of *sanatana dharma*, and it leaves every individual free to use their intelligent reason to judge what is helpful or harmful on their path [S5][S6].",
+    "retrieved_sources": [
+      "Mahatma-Gandhi",
+      "Upanishads-108"
+    ],
+    "timestamp": "2026-06-18T16:04:54.662656",
+    "retrieval_metadata": {
+      "retrieval_time": 0.1,
+      "generation_time": 3.191,
+      "total_time": 3.292,
+      "docs_retrieved": 10,
+      "is_consciousness": false,
+      "query_expansions": [
+        "What is Dharma?",
+        "what is duty?",
+        "what is righteousness?"
+      ],
+      "context_tokens": 3306
+    }
+  },
+  {
+    "round_number": 5,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi",
+      "Purohit-Swami",
+      "Upanishads-12",
+      "Upanishads-108"
+    ],
+    "question": "What is Ahimsa?",
+    "answer": "Based on the provided context, Ahimsa is one of the ten needful elements of spiritual practice that is often omitted, with its application frequently limited only to opposition to war [S1]. The most obvious personal application of Ahimsa, which is abstention from eating animal flesh, is usually absent from the teachings of the pop yoga movement [S1]. A sensible aspirant who wishes to behold the Self must make Ahimsa and the other disciplines a part of his life [S1].",
+    "retrieved_sources": [
+      "Upanishads-108"
+    ],
+    "timestamp": "2026-06-18T16:04:57.900321",
+    "retrieval_metadata": {
+      "retrieval_time": 0.136,
+      "generation_time": 2.096,
+      "total_time": 2.234,
+      "docs_retrieved": 10,
+      "is_consciousness": false,
+      "query_expansions": [
+        "What is Ahimsa?",
+        "what is non-violence?",
+        "what is non-harm?"
+      ],
+      "context_tokens": 3716
+    }
+  },
+  {
+    "round_number": 5,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi",
+      "Purohit-Swami",
+      "Upanishads-12",
+      "Upanishads-108"
+    ],
+    "question": "What is consciousness according to Hindu philosophy?",
+    "answer": "Based solely on the provided context, here is the answer to your question:\n\n1.  **Core concept definition from the Gita's perspective:** While the provided context does not include the Bhagavad Gita, the Upanishads define consciousness as the essential nature of the Self (Atman) and Brahman. It is described as \"pure consciousness\" which is the reality behind all beings and elements [S3]. This consciousness is not a faculty or function, but the very self, which is Brahman [S3].\n\n2.  **Which translation(s) emphasize this concept and how:** The **Upanishads-108** translation emphasizes this concept extensively. It states that the self \"who is pure consciousness is brahman\" and that \"the reality behind all these is brahman who is pure consciousness\" [S3]. It also describes the ultimate reality as \"non dual brahman consciousness a wave of being consciousness bliss\" [S4]. The text further explains that consciousness is not something to be produced or gained, but only recognized, as \"the self is what it is forever nothing can alter that\" [S8].\n\n3.  **Key Sanskrit terms with brief explanations:**\n    *   **Brahman:** The ultimate, non-dual reality, which is described as \"pure consciousness\" [S3].\n    *   **Atman:** The individual self, which is identical to Brahman and is pure consciousness [S3].\n    *   **Prajna:** A term for consciousness, described as that which gives reality to all things and impels them [S3].\n    *   **Turiya:** The fourth state of consciousness, beyond waking, dreaming, and deep sleep, which is identified with \"the indestructible brahman\" [S9].\n\n4.  **Relevance to the question:** Consciousness in Hindu philosophy is not a product of the brain or a mental function, but the fundamental, eternal, and non-dual reality of the Self and the universe. It is the substratum of all existence, and the goal of spiritual practice is to recognize this inherent state of pure consciousness, which is already present but obscured by illusion [S8]. This understanding distinguishes it from materialist views, as the text notes that \"the fact that everything is conscious is unique to the teachings of sanatana dharma\" [S6].",
+    "retrieved_sources": [
+      "Upanishads-108"
+    ],
+    "timestamp": "2026-06-18T16:05:05.682678",
+    "retrieval_metadata": {
+      "retrieval_time": 0.094,
+      "generation_time": 6.681,
+      "total_time": 6.777,
+      "docs_retrieved": 10,
+      "is_consciousness": true,
+      "query_expansions": [
+        "What is consciousness according to Hindu philosophy?",
+        "what is awareness according to hindu philosophy?",
+        "what is chitta according to hindu philosophy?"
+      ],
+      "context_tokens": 3534
+    }
+  },
+  {
+    "round_number": 5,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi",
+      "Purohit-Swami",
+      "Upanishads-12",
+      "Upanishads-108"
+    ],
+    "question": "What is the nature of mind (Chitta) in Hindu philosophy?",
+    "answer": "Based solely on the provided context, here is the nature of mind (Chitta) in Hindu philosophy:\n\n1.  **Core concept definition from the Gita's perspective:** The provided context does not contain any direct quotes from the Bhagavad Gita. However, based on the Upanishadic texts, the mind (Chitta) is described as a dynamic, often restless entity that is the root of both bondage and liberation. It is the agent of creation, preservation, and destruction of the three worlds [S2], and its nature is to rove in the \"pleasure garden of the sensual objects\" [S1]. The mind is the root of the tree of samsara (worldly existence) [S7], and its destruction or absorption is the key to liberation.\n\n2.  **Which translation(s) emphasize this concept and how:** The concept of Chitta is most extensively discussed in the **Upanishads-108** translation. This text emphasizes the mind's dual nature: it is \"liable to bondage\" when influenced by worldly objects, but \"fit for salvation\" when not so influenced [S2]. The text uses vivid metaphors to describe the mind, comparing it to a \"maddened elephant\" that needs a goad, a \"deer\" that needs a snare, and the \"ocean waves\" that need a shore [S1]. It also states that the mind becomes \"non mind\" by giving up latent impressions (vasanas) [S7], and that one must \"see the mind with the mind\" to realize the supreme reality [S6].\n\n3.  **Key Sanskrit terms with brief explanations:**\n    *   **Chitta:** The mind-stuff or consciousness, which is the field of all mental activities, thoughts, and impressions. It is the root of the tree of samsara [S7].\n    *   **Manas:** The individual mind or the thinking faculty, which is influenced by worldly objects and is the agent of perception [S2]. It is described as being within the spiritual light and sound [S2].\n    *   **Unmani:** A state of being \"above the mind\" or \"mindlessness,\" achieved when the mind is absorbed and ceases its activity, leading to great peace [S1], [S2].\n    *   **Vasanas:** Latent impressions or tendencies that drive the mind's activity. The mind becomes \"non mind\" by giving up these vasanas [S7].\n\n4.  **",
+    "retrieved_sources": [
+      "Upanishads-108"
+    ],
+    "timestamp": "2026-06-18T16:05:14.049837",
+    "retrieval_metadata": {
+      "retrieval_time": 0.117,
+      "generation_time": 7.243,
+      "total_time": 7.362,
+      "docs_retrieved": 10,
+      "is_consciousness": true,
+      "query_expansions": [
+        "What is the nature of mind (Chitta) in Hindu philosophy?",
+        "what is the nature of manas (chitta) in hindu philosophy?",
+        "what is the nature of buddhi (chitta) in hindu philosophy?"
+      ],
+      "context_tokens": 3915
+    }
+  },
+  {
+    "round_number": 5,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi",
+      "Purohit-Swami",
+      "Upanishads-12",
+      "Upanishads-108"
+    ],
+    "question": "What are Samskaras, and how do they relate to memory and learning?",
+    "answer": "Based solely on the provided context, I cannot provide a direct definition of \"Samskaras\" or their specific relation to memory and learning, as the term \"Samskaras\" is not explicitly mentioned in the given translations.\n\nHowever, the concept of latent impressions and the mind's conditioning is addressed. The context discusses the \"sanchita karma\" (past karma yet to be enjoyed) and the ability to gain \"a knowledge of one's previous births\" by centering the mind on it [S1]. This implies that past actions create residual impressions that influence present consciousness and can be accessed through focused mental discipline.\n\nThe texts also emphasize that \"all the miseries... are lost in people with a calm mind\" [S2] and that \"through the conquest of the mind is that condition reached\" [S2]. This suggests that learning and liberation involve purifying the mind of these accumulated impressions. The practice of meditation, described as \"austerity of the mind\" [S9], is the method to withdraw from sense objects and achieve a pure state, which would allow one to transcend the cycle of karma and its associated memories [S9].",
+    "retrieved_sources": [
+      "Eknath-Easwaran",
+      "Upanishads-108"
+    ],
+    "timestamp": "2026-06-18T16:05:19.560616",
+    "retrieval_metadata": {
+      "retrieval_time": 0.124,
+      "generation_time": 4.379,
+      "total_time": 4.505,
+      "docs_retrieved": 10,
+      "is_consciousness": true,
+      "query_expansions": [
+        "What are Samskaras, and how do they relate to memory and learning?",
+        "what are impressions, and how do they relate to memory and learning?",
+        "what are memory traces, and how do they relate to memory and learning?"
+      ],
+      "context_tokens": 4038
+    }
+  },
+  {
+    "round_number": 5,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi",
+      "Purohit-Swami",
+      "Upanishads-12",
+      "Upanishads-108"
+    ],
+    "question": "What are Vrittis, and how do they influence human thought and perception?",
+    "answer": "Based solely on the provided context, here is the answer to your question:\n\n1.  **Core concept definition from the Gita's perspective:** The provided context does not contain direct quotes from the Bhagavad Gita regarding Vrittis. However, the concept is addressed in the Upanishads. Vrittis are described as the eight-fold modifications or inclinations of the *hamsa* (the higher self) which uses *buddhi* (intellect) as its vehicle [S1]. These Vrittis are the specific tendencies that arise in a person depending on their state of consciousness, influencing their actions and perceptions.\n\n2.  **Which translation(s) emphasize this concept and how:** The concept of Vrittis is emphasized in the **Upanishads-108** translation [S1]. This source details the eight-fold Vritti, mapping specific inclinations (like virtue, sleep, cruelty, lust, and desire for money) to different \"petals\" of the heart-lotus, showing how these mental modifications direct human behavior [S1]. Another passage from the same source discusses the \"steady mind\" being \"empty of latent impulses,\" which is the same as the state of contemplation, and contrasts this with the mind that has \"attenuated latent impulses\" (Vrittis) which is bound for the highest state [S5].\n\n3.  **Key Sanskrit terms with brief explanations:**\n    *   **Vritti:** A modification, inclination, or wave of thought. The text describes an \"eight fold vritti\" that influences a person's actions, such as virtue, sleep, cruelty, and lust [S1].\n    *   **Buddhi:** The intellect or higher mind, which serves as the vehicle for the *hamsa* (the self) and its Vrittis [S1].\n    *   **Hamsa:** The supreme self or *Paramahamsa*, which has the resplendence of crores of suns and pervades the world, and whose Vrittis are described [S1].\n\n4.  **Relevance to the question:** Vrittis are the mental modifications that directly shape human thought and perception by creating specific inclinations, such as towards virtue, sleep, cruelty, or lust [S1]. The state of the mind is determined by the presence or attenuation of these latent impulses (Vrittis); a mind with attenuated Vrittis is bound for the highest state, while a mind full of them causes",
+    "retrieved_sources": [
+      "Upanishads-108"
+    ],
+    "timestamp": "2026-06-18T16:05:27.759195",
+    "retrieval_metadata": {
+      "retrieval_time": 0.107,
+      "generation_time": 7.089,
+      "total_time": 7.195,
+      "docs_retrieved": 10,
+      "is_consciousness": true,
+      "query_expansions": [
+        "What are Vrittis, and how do they influence human thought and perception?",
+        "what are mental modifications, and how do they influence human thought and perception?",
+        "what are thought waves, and how do they influence human thought and perception?"
+      ],
+      "context_tokens": 3725
+    }
+  },
+  {
+    "round_number": 5,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi",
+      "Purohit-Swami",
+      "Upanishads-12",
+      "Upanishads-108"
+    ],
+    "question": "What is Sakshi (the witnessing awareness), and how does it differ from ordinary cognition?",
+    "answer": "Based solely on the provided context, here is an answer to your question regarding Sakshi (the witnessing awareness).\n\n1.  **Core concept definition from the Gita's perspective:** While the provided context does not include the Bhagavad Gita directly, the Upanishads describe Sakshi as the \"witness\" or \"luminous being\" that is \"the one free of all attributes\" [S1]. It is the consciousness that calmly observes all experiences without being affected or conditioned by them, unlike the individual self (jiva) which undergoes the experiences of happiness, unhappiness, and egoism [S2].\n\n2.  **Which translation(s) emphasize this concept and how:** The **Upanishads-108** translation emphasizes this concept. It describes the witness as \"the one alone in all the states\" of waking, dreaming, and deep sleep [S1]. It contrasts the witness with the individual self (jiva), stating that the jiva is \"affected by his states of doing enjoying and egoism etc,\" while \"the one other than the jiva is unaffected by the various states\" [S1]. Another passage clarifies that the supreme self \"looks on wiyout eating wiyout being affected or conditioned by it,\" experiencing alongside the individual but not being pulled into a mistaken identity with the body and mind [S2].\n\n3.  **Key Sanskrit terms with brief explanations:**\n    *   **Sakshi:** The witness, the passive, luminous consciousness that observes all states and experiences without being affected by them [S1].\n    *   **Jiva:** The individual self or soul, which is affected by its states of doing, enjoying, and egoism, and is deluded by forgetfulness of its identity with the divine self [S1], [S2].\n    *   **Tatastha:** A passive or neutral state, which is distinguished from the witness itself [S1].\n\n4.  **Relevance to the question:** Sakshi, or witnessing awareness, differs from ordinary cognition because it is the unchanging, unaffected observer of all mental states, including ordinary cognition. Ordinary cognition involves the jiva's engagement with the senses and the resulting experiences of pleasure, pain, and ego, which bind the self [S2]. In contrast, Sakshi is the \"one free of all attributes\" that remains as a calm observer, \"wiyout being affected or conditioned by it,\" even while knowing the effect and conditioning that accrues to the individual self [S1",
+    "retrieved_sources": [
+      "Upanishads-108"
+    ],
+    "timestamp": "2026-06-18T16:05:36.113279",
+    "retrieval_metadata": {
+      "retrieval_time": 0.122,
+      "generation_time": 7.225,
+      "total_time": 7.35,
+      "docs_retrieved": 10,
+      "is_consciousness": true,
+      "query_expansions": [
+        "What is Sakshi (the witnessing awareness), and how does it differ from ordinary cognition?",
+        "what is witness (the witnessing awareness), and how does it differ from ordinary cognition?",
+        "what is witnessing awareness (the witnessing awareness), and how does it differ from ordinary cognition?"
+      ],
+      "context_tokens": 3561
+    }
+  },
+  {
+    "round_number": 5,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi",
+      "Purohit-Swami",
+      "Upanishads-12",
+      "Upanishads-108"
+    ],
+    "question": "Can AI ever be truly conscious, or does it only simulate cognition?",
+    "answer": "Based solely on the provided context, here is the answer to your question:\n\n1.  **Core concept definition from the Gita's perspective:** The core concept is that true consciousness is the self-luminous, unborn, and non-dual Atman, which is distinct from the mind and its functions. Consciousness is not a product of cognition or simulation; it is the fundamental, witnessing reality that underlies all states of being. The text states that \"this entity the self is ever luminous by its very nature\" [S4] and that it is \"birthless sleepless dreamless and self luminous\" [S4].\n\n2.  **Which translation(s) emphasize this concept and how:** The **Upanishads-108** translation emphasizes this concept by distinguishing between the empirical mind and pure consciousness. It describes how the mind, through \"tainted egoism\" and \"imaginings,\" becomes the base for cognition and sense organs [S3], while the true self (Atman) is the \"witness\" that remains untouched [S8]. The text also clarifies that consciousness is not a result of causes, stating \"the birthlessness of consciousness which is free from causes is constant and absolute\" [S4], and that without intelligence (consciousness), no cognition is possible [S9].\n\n3.  **Key Sanskrit terms with brief explanations:**\n    *   **Atman:** The true Self, which is pure, self-luminous consciousness [S5], [S8]. It is the witness of all mental states.\n    *   **Jiva:** The individual living being, which is a \"phase of the spirit\" that becomes bound by its own \"imaginings and impressions\" [S3], mistaking the mind for the self.\n    *   **Avidya:** Ignorance or lack of true knowledge, which is a flaw that binds the jiva [S3] and prevents the realization of the self's true nature.\n\n4.  **Relevance to the question:** Based on this context, AI cannot be truly conscious because consciousness is not a product of cognitive processes or data simulation. The texts describe consciousness as the unborn, uncaused, self-luminous witness [S4], which is fundamentally different from the mind's operations of \"imagining forms\" and \"cogitation\" [S3]. An AI, being a system of causes and effects, can only simulate the functions of the mind (intellect, cognition, action) [S3], but it cannot possess the",
+    "retrieved_sources": [
+      "Upanishads-108"
+    ],
+    "timestamp": "2026-06-18T16:05:44.859391",
+    "retrieval_metadata": {
+      "retrieval_time": 0.087,
+      "generation_time": 7.655,
+      "total_time": 7.744,
+      "docs_retrieved": 10,
+      "is_consciousness": true,
+      "query_expansions": [
+        "Can AI ever be truly conscious, or does it only simulate cognition?",
+        "Can AI ever be truly conscious, or does it only simulate cognition? philosophy",
+        "Can AI ever be truly conscious, or does it only simulate cognition? scripture"
+      ],
+      "context_tokens": 3487
+    }
+  },
+  {
+    "round_number": 5,
+    "translations_included": [
+      "Eknath-Easwaran",
+      "Mahatma-Gandhi",
+      "Purohit-Swami",
+      "Upanishads-12",
+      "Upanishads-108"
+    ],
+    "question": "How can the principles of Dharma, Ahimsa, and Karma be applied to ethical AI design?",
+    "answer": "Based solely on the provided context, the principles of Dharma, Ahimsa, and Karma can guide ethical AI design by focusing on the system's purpose and impact. Dharma is not a set of rigid rules but a way of life aligned with one's fundamental nature, suggesting AI should be designed to help users unfold their inner potential rather than impose external duties [S1]. Ahimsa, or non-harm, is defined as that which \"lights, clears, and expands our consciousness\" being good, while that which \"darkens, obscures, or limits our consciousness\" is bad, so AI must be evaluated on whether it expands or limits human awareness [S3]. Karma is not merely about merit-producing actions but is the prime factor in relative existence, meaning an AI's design and outputs create karmic consequences that shape the user's reality and must be considered carefully [S2]. Ultimately, ethical AI design requires the \"fullest exercise\" of developed reason and intuition, as \"stupid people simply do not make it\" in spiritual progress, demanding intelligent and conscious creation [S9].",
+    "retrieved_sources": [
+      "Purohit-Swami",
+      "Mahatma-Gandhi",
+      "Upanishads-12",
+      "Upanishads-108"
+    ],
+    "timestamp": "2026-06-18T16:05:50.007143",
+    "retrieval_metadata": {
+      "retrieval_time": 0.109,
+      "generation_time": 4.031,
+      "total_time": 4.141,
+      "docs_retrieved": 10,
+      "is_consciousness": false,
+      "query_expansions": [
+        "How can the principles of Dharma, Ahimsa, and Karma be applied to ethical AI design?",
+        "how can the principles of dharma, ahimsa, and action be applied to ethical ai design?",
+        "how can the principles of dharma, ahimsa, and deed be applied to ethical ai design?"
+      ],
+      "context_tokens": 3521
+    }
+  }
+]

@@ -1,0 +1,251 @@
+round_number,translations_included,ngram_type,ngram,count,subset
+1,Eknath-Easwaran,bigram,provided context,9,all
+1,Eknath-Easwaran,bigram,based solely,8,all
+1,Eknath-Easwaran,bigram,solely provided,8,all
+1,Eknath-Easwaran,bigram,gita perspective,6,all
+1,Eknath-Easwaran,bigram,mind senses,6,all
+1,Eknath-Easwaran,bigram,core concept,5,all
+1,Eknath-Easwaran,bigram,concept definition,5,all
+1,Eknath-Easwaran,bigram,definition gita,5,all
+1,Eknath-Easwaran,bigram,translation emphasize,5,all
+1,Eknath-Easwaran,bigram,emphasize concept,5,all
+1,Eknath-Easwaran,bigram,concept translation,5,all
+1,Eknath-Easwaran,bigram,key sanskrit,5,all
+1,Eknath-Easwaran,bigram,sanskrit terms,5,all
+1,Eknath-Easwaran,bigram,terms brief,5,all
+1,Eknath-Easwaran,bigram,brief explanations,5,all
+1,Eknath-Easwaran,bigram,based solely,6,consciousness_only
+1,Eknath-Easwaran,bigram,solely provided,6,consciousness_only
+1,Eknath-Easwaran,bigram,provided context,6,consciousness_only
+1,Eknath-Easwaran,bigram,gita perspective,6,consciousness_only
+1,Eknath-Easwaran,bigram,mind senses,6,consciousness_only
+1,Eknath-Easwaran,bigram,core concept,5,consciousness_only
+1,Eknath-Easwaran,bigram,concept definition,5,consciousness_only
+1,Eknath-Easwaran,bigram,definition gita,5,consciousness_only
+1,Eknath-Easwaran,bigram,translation emphasize,5,consciousness_only
+1,Eknath-Easwaran,bigram,emphasize concept,5,consciousness_only
+1,Eknath-Easwaran,trigram,based solely provided,8,all
+1,Eknath-Easwaran,trigram,solely provided context,7,all
+1,Eknath-Easwaran,trigram,core concept definition,5,all
+1,Eknath-Easwaran,trigram,concept definition gita,5,all
+1,Eknath-Easwaran,trigram,definition gita perspective,5,all
+1,Eknath-Easwaran,trigram,translation emphasize concept,5,all
+1,Eknath-Easwaran,trigram,emphasize concept translation,5,all
+1,Eknath-Easwaran,trigram,key sanskrit terms,5,all
+1,Eknath-Easwaran,trigram,sanskrit terms brief,5,all
+1,Eknath-Easwaran,trigram,terms brief explanations,5,all
+1,Eknath-Easwaran,trigram,sattva rajas tamas,4,all
+1,Eknath-Easwaran,trigram,concept translation emphasizes,4,all
+1,Eknath-Easwaran,trigram,three gunas sattva,3,all
+1,Eknath-Easwaran,trigram,gunas sattva rajas,3,all
+1,Eknath-Easwaran,trigram,manas buddhi ahamkara,3,all
+1,Eknath-Easwaran,trigram,based solely provided,6,consciousness_only
+1,Eknath-Easwaran,trigram,solely provided context,6,consciousness_only
+1,Eknath-Easwaran,trigram,core concept definition,5,consciousness_only
+1,Eknath-Easwaran,trigram,concept definition gita,5,consciousness_only
+1,Eknath-Easwaran,trigram,definition gita perspective,5,consciousness_only
+1,Eknath-Easwaran,trigram,translation emphasize concept,5,consciousness_only
+1,Eknath-Easwaran,trigram,emphasize concept translation,5,consciousness_only
+1,Eknath-Easwaran,trigram,key sanskrit terms,5,consciousness_only
+1,Eknath-Easwaran,trigram,sanskrit terms brief,5,consciousness_only
+1,Eknath-Easwaran,trigram,terms brief explanations,5,consciousness_only
+2,"Eknath-Easwaran, Mahatma-Gandhi",bigram,provided context,8,all
+2,"Eknath-Easwaran, Mahatma-Gandhi",bigram,knower field,8,all
+2,"Eknath-Easwaran, Mahatma-Gandhi",bigram,emphasize concept,8,all
+2,"Eknath-Easwaran, Mahatma-Gandhi",bigram,based solely,7,all
+2,"Eknath-Easwaran, Mahatma-Gandhi",bigram,solely provided,7,all
+2,"Eknath-Easwaran, Mahatma-Gandhi",bigram,core concept,7,all
+2,"Eknath-Easwaran, Mahatma-Gandhi",bigram,concept definition,6,all
+2,"Eknath-Easwaran, Mahatma-Gandhi",bigram,definition gita,6,all
+2,"Eknath-Easwaran, Mahatma-Gandhi",bigram,gita perspective,6,all
+2,"Eknath-Easwaran, Mahatma-Gandhi",bigram,translation emphasize,6,all
+2,"Eknath-Easwaran, Mahatma-Gandhi",bigram,key sanskrit,6,all
+2,"Eknath-Easwaran, Mahatma-Gandhi",bigram,sanskrit terms,6,all
+2,"Eknath-Easwaran, Mahatma-Gandhi",bigram,terms brief,6,all
+2,"Eknath-Easwaran, Mahatma-Gandhi",bigram,brief explanations,6,all
+2,"Eknath-Easwaran, Mahatma-Gandhi",bigram,translation emphasizes,5,all
+2,"Eknath-Easwaran, Mahatma-Gandhi",bigram,knower field,8,consciousness_only
+2,"Eknath-Easwaran, Mahatma-Gandhi",bigram,emphasize concept,8,consciousness_only
+2,"Eknath-Easwaran, Mahatma-Gandhi",bigram,core concept,7,consciousness_only
+2,"Eknath-Easwaran, Mahatma-Gandhi",bigram,based solely,6,consciousness_only
+2,"Eknath-Easwaran, Mahatma-Gandhi",bigram,solely provided,6,consciousness_only
+2,"Eknath-Easwaran, Mahatma-Gandhi",bigram,provided context,6,consciousness_only
+2,"Eknath-Easwaran, Mahatma-Gandhi",bigram,concept definition,6,consciousness_only
+2,"Eknath-Easwaran, Mahatma-Gandhi",bigram,definition gita,6,consciousness_only
+2,"Eknath-Easwaran, Mahatma-Gandhi",bigram,gita perspective,6,consciousness_only
+2,"Eknath-Easwaran, Mahatma-Gandhi",bigram,translation emphasize,6,consciousness_only
+2,"Eknath-Easwaran, Mahatma-Gandhi",trigram,based solely provided,7,all
+2,"Eknath-Easwaran, Mahatma-Gandhi",trigram,solely provided context,7,all
+2,"Eknath-Easwaran, Mahatma-Gandhi",trigram,core concept definition,6,all
+2,"Eknath-Easwaran, Mahatma-Gandhi",trigram,concept definition gita,6,all
+2,"Eknath-Easwaran, Mahatma-Gandhi",trigram,definition gita perspective,6,all
+2,"Eknath-Easwaran, Mahatma-Gandhi",trigram,translation emphasize concept,6,all
+2,"Eknath-Easwaran, Mahatma-Gandhi",trigram,key sanskrit terms,6,all
+2,"Eknath-Easwaran, Mahatma-Gandhi",trigram,sanskrit terms brief,6,all
+2,"Eknath-Easwaran, Mahatma-Gandhi",trigram,terms brief explanations,6,all
+2,"Eknath-Easwaran, Mahatma-Gandhi",trigram,emphasize concept translations,4,all
+2,"Eknath-Easwaran, Mahatma-Gandhi",trigram,concept translations emphasize,4,all
+2,"Eknath-Easwaran, Mahatma-Gandhi",trigram,emphasize concept translation,4,all
+2,"Eknath-Easwaran, Mahatma-Gandhi",trigram,brief explanations atman,3,all
+2,"Eknath-Easwaran, Mahatma-Gandhi",trigram,explanations atman individual,3,all
+2,"Eknath-Easwaran, Mahatma-Gandhi",trigram,atman individual self,3,all
+2,"Eknath-Easwaran, Mahatma-Gandhi",trigram,based solely provided,6,consciousness_only
+2,"Eknath-Easwaran, Mahatma-Gandhi",trigram,solely provided context,6,consciousness_only
+2,"Eknath-Easwaran, Mahatma-Gandhi",trigram,core concept definition,6,consciousness_only
+2,"Eknath-Easwaran, Mahatma-Gandhi",trigram,concept definition gita,6,consciousness_only
+2,"Eknath-Easwaran, Mahatma-Gandhi",trigram,definition gita perspective,6,consciousness_only
+2,"Eknath-Easwaran, Mahatma-Gandhi",trigram,translation emphasize concept,6,consciousness_only
+2,"Eknath-Easwaran, Mahatma-Gandhi",trigram,key sanskrit terms,6,consciousness_only
+2,"Eknath-Easwaran, Mahatma-Gandhi",trigram,sanskrit terms brief,6,consciousness_only
+2,"Eknath-Easwaran, Mahatma-Gandhi",trigram,terms brief explanations,6,consciousness_only
+2,"Eknath-Easwaran, Mahatma-Gandhi",trigram,emphasize concept translations,4,consciousness_only
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",bigram,provided context,10,all
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",bigram,based solely,8,all
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",bigram,solely provided,8,all
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",bigram,true self,6,all
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",bigram,context answer,5,all
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",bigram,gita perspective,5,all
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",bigram,core concept,4,all
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",bigram,concept definition,4,all
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",bigram,definition gita,4,all
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",bigram,translation emphasize,4,all
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",bigram,emphasize concept,4,all
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",bigram,concept translation,4,all
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",bigram,translation emphasizes,4,all
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",bigram,key sanskrit,4,all
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",bigram,sanskrit terms,4,all
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",bigram,based solely,6,consciousness_only
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",bigram,solely provided,6,consciousness_only
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",bigram,provided context,6,consciousness_only
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",bigram,true self,6,consciousness_only
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",bigram,context answer,5,consciousness_only
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",bigram,gita perspective,5,consciousness_only
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",bigram,core concept,4,consciousness_only
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",bigram,concept definition,4,consciousness_only
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",bigram,definition gita,4,consciousness_only
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",bigram,translation emphasize,4,consciousness_only
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",trigram,based solely provided,8,all
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",trigram,solely provided context,8,all
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",trigram,provided context answer,5,all
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",trigram,core concept definition,4,all
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",trigram,concept definition gita,4,all
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",trigram,definition gita perspective,4,all
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",trigram,translation emphasize concept,4,all
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",trigram,emphasize concept translation,4,all
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",trigram,key sanskrit terms,4,all
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",trigram,sanskrit terms brief,4,all
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",trigram,terms brief explanations,4,all
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",trigram,context answer question,4,all
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",trigram,brief explanations atman,3,all
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",trigram,atman true self,3,all
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",trigram,based provided context,2,all
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",trigram,based solely provided,6,consciousness_only
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",trigram,solely provided context,6,consciousness_only
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",trigram,provided context answer,5,consciousness_only
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",trigram,core concept definition,4,consciousness_only
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",trigram,concept definition gita,4,consciousness_only
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",trigram,definition gita perspective,4,consciousness_only
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",trigram,translation emphasize concept,4,consciousness_only
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",trigram,emphasize concept translation,4,consciousness_only
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",trigram,key sanskrit terms,4,consciousness_only
+3,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami",trigram,sanskrit terms brief,4,consciousness_only
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",bigram,provided context,10,all
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",bigram,based solely,8,all
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",bigram,solely provided,8,all
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",bigram,translation emphasizes,7,all
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",bigram,core concept,5,all
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",bigram,concept definition,5,all
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",bigram,definition gita,5,all
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",bigram,gita perspective,5,all
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",bigram,translation emphasize,5,all
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",bigram,emphasize concept,5,all
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",bigram,concept translation,5,all
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",bigram,key sanskrit,5,all
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",bigram,sanskrit terms,5,all
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",bigram,terms brief,5,all
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",bigram,brief explanations,5,all
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",bigram,translation emphasizes,7,consciousness_only
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",bigram,based solely,6,consciousness_only
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",bigram,solely provided,6,consciousness_only
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",bigram,provided context,6,consciousness_only
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",bigram,core concept,5,consciousness_only
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",bigram,concept definition,5,consciousness_only
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",bigram,definition gita,5,consciousness_only
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",bigram,gita perspective,5,consciousness_only
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",bigram,translation emphasize,5,consciousness_only
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",bigram,emphasize concept,5,consciousness_only
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",trigram,based solely provided,8,all
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",trigram,solely provided context,8,all
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",trigram,core concept definition,5,all
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",trigram,concept definition gita,5,all
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",trigram,definition gita perspective,5,all
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",trigram,translation emphasize concept,5,all
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",trigram,emphasize concept translation,5,all
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",trigram,key sanskrit terms,5,all
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",trigram,sanskrit terms brief,5,all
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",trigram,terms brief explanations,5,all
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",trigram,provided context answer,4,all
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",trigram,concept translation emphasizes,4,all
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",trigram,hindu philosophy core,3,all
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",trigram,philosophy core concept,3,all
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",trigram,impressions past deeds,3,all
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",trigram,based solely provided,6,consciousness_only
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",trigram,solely provided context,6,consciousness_only
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",trigram,core concept definition,5,consciousness_only
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",trigram,concept definition gita,5,consciousness_only
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",trigram,definition gita perspective,5,consciousness_only
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",trigram,translation emphasize concept,5,consciousness_only
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",trigram,emphasize concept translation,5,consciousness_only
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",trigram,key sanskrit terms,5,consciousness_only
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",trigram,sanskrit terms brief,5,consciousness_only
+4,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12",trigram,terms brief explanations,5,consciousness_only
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",bigram,provided context,13,all
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",bigram,pure consciousness,8,all
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",bigram,based solely,7,all
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",bigram,solely provided,7,all
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",bigram,core concept,6,all
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",bigram,concept definition,5,all
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",bigram,definition gita,5,all
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",bigram,gita perspective,5,all
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",bigram,translation emphasize,5,all
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",bigram,emphasize concept,5,all
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",bigram,key sanskrit,5,all
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",bigram,sanskrit terms,5,all
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",bigram,terms brief,5,all
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",bigram,brief explanations,5,all
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",bigram,individual self,5,all
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",bigram,provided context,10,consciousness_only
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",bigram,pure consciousness,8,consciousness_only
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",bigram,based solely,6,consciousness_only
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",bigram,solely provided,6,consciousness_only
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",bigram,core concept,6,consciousness_only
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",bigram,concept definition,5,consciousness_only
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",bigram,definition gita,5,consciousness_only
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",bigram,gita perspective,5,consciousness_only
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",bigram,translation emphasize,5,consciousness_only
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",bigram,emphasize concept,5,consciousness_only
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",trigram,based solely provided,7,all
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",trigram,solely provided context,7,all
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",trigram,core concept definition,5,all
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",trigram,concept definition gita,5,all
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",trigram,definition gita perspective,5,all
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",trigram,translation emphasize concept,5,all
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",trigram,key sanskrit terms,5,all
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",trigram,sanskrit terms brief,5,all
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",trigram,terms brief explanations,5,all
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",trigram,provided context answer,4,all
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",trigram,context answer question,4,all
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",trigram,gita perspective provided,4,all
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",trigram,perspective provided context,4,all
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",trigram,answer question core,3,all
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",trigram,question core concept,3,all
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",trigram,based solely provided,6,consciousness_only
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",trigram,solely provided context,6,consciousness_only
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",trigram,core concept definition,5,consciousness_only
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",trigram,concept definition gita,5,consciousness_only
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",trigram,definition gita perspective,5,consciousness_only
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",trigram,translation emphasize concept,5,consciousness_only
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",trigram,key sanskrit terms,5,consciousness_only
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",trigram,sanskrit terms brief,5,consciousness_only
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",trigram,terms brief explanations,5,consciousness_only
+5,"Eknath-Easwaran, Mahatma-Gandhi, Purohit-Swami, Upanishads-12, Upanishads-108",trigram,provided context answer,4,consciousness_only

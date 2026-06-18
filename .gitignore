@@ -5,3 +5,5 @@ __pycache__/
 *.pyc
 .env
 system_params.json
+.claude/
+gita_eval_results_enhanced/faiss_indices_enhanced/

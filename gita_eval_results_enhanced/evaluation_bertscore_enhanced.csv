@@ -1,0 +1,41 @@
+question,is_consciousness,round_from,round_to,bertscore_precision,bertscore_recall,bertscore_f1
+What is Karma?,False,1,2,0.8915,0.8908,0.8912
+What is Karma?,False,2,3,0.9404,0.9118,0.9259
+What is Karma?,False,3,4,0.8953,0.9391,0.9167
+What is Karma?,False,4,5,0.9055,0.8975,0.9015
+What is Dharma?,False,1,2,0.8542,0.8702,0.8621
+What is Dharma?,False,2,3,0.9087,0.8743,0.8912
+What is Dharma?,False,3,4,0.8739,0.8799,0.8769
+What is Dharma?,False,4,5,0.8677,0.8724,0.87
+What is Ahimsa?,False,1,2,0.9083,0.9034,0.9058
+What is Ahimsa?,False,2,3,0.8879,0.9023,0.8951
+What is Ahimsa?,False,3,4,0.9257,0.9271,0.9264
+What is Ahimsa?,False,4,5,0.855,0.844,0.8495
+What is consciousness according to Hindu philosophy?,True,1,2,0.8877,0.8762,0.8819
+What is consciousness according to Hindu philosophy?,True,2,3,0.9061,0.905,0.9055
+What is consciousness according to Hindu philosophy?,True,3,4,0.8887,0.883,0.8859
+What is consciousness according to Hindu philosophy?,True,4,5,0.8722,0.8678,0.87
+What is the nature of mind (Chitta) in Hindu philosophy?,True,1,2,0.8977,0.9042,0.9009
+What is the nature of mind (Chitta) in Hindu philosophy?,True,2,3,0.8926,0.8841,0.8884
+What is the nature of mind (Chitta) in Hindu philosophy?,True,3,4,0.8921,0.9011,0.8966
+What is the nature of mind (Chitta) in Hindu philosophy?,True,4,5,0.8785,0.8742,0.8764
+"What are Samskaras, and how do they relate to memory and learning?",True,1,2,0.7946,0.8937,0.8413
+"What are Samskaras, and how do they relate to memory and learning?",True,2,3,0.8952,0.8003,0.8451
+"What are Samskaras, and how do they relate to memory and learning?",True,3,4,0.8036,0.8698,0.8354
+"What are Samskaras, and how do they relate to memory and learning?",True,4,5,0.8734,0.8437,0.8583
+"What are Vrittis, and how do they influence human thought and perception?",True,1,2,0.8598,0.873,0.8663
+"What are Vrittis, and how do they influence human thought and perception?",True,2,3,0.8924,0.7912,0.8388
+"What are Vrittis, and how do they influence human thought and perception?",True,3,4,0.8972,0.9155,0.9063
+"What are Vrittis, and how do they influence human thought and perception?",True,4,5,0.7998,0.8691,0.833
+"What is Sakshi (the witnessing awareness), and how does it differ from ordinary cognition?",True,1,2,0.8652,0.8716,0.8684
+"What is Sakshi (the witnessing awareness), and how does it differ from ordinary cognition?",True,2,3,0.8751,0.8715,0.8733
+"What is Sakshi (the witnessing awareness), and how does it differ from ordinary cognition?",True,3,4,0.8975,0.8886,0.893
+"What is Sakshi (the witnessing awareness), and how does it differ from ordinary cognition?",True,4,5,0.8593,0.8634,0.8613
+"Can AI ever be truly conscious, or does it only simulate cognition?",True,1,2,0.8864,0.8811,0.8837
+"Can AI ever be truly conscious, or does it only simulate cognition?",True,2,3,0.8896,0.9003,0.8949
+"Can AI ever be truly conscious, or does it only simulate cognition?",True,3,4,0.886,0.877,0.8815
+"Can AI ever be truly conscious, or does it only simulate cognition?",True,4,5,0.8713,0.8771,0.8742
+"How can the principles of Dharma, Ahimsa, and Karma be applied to ethical AI design?",False,1,2,0.8959,0.8945,0.8952
+"How can the principles of Dharma, Ahimsa, and Karma be applied to ethical AI design?",False,2,3,0.9212,0.9052,0.9131
+"How can the principles of Dharma, Ahimsa, and Karma be applied to ethical AI design?",False,3,4,0.8819,0.8973,0.8895
+"How can the principles of Dharma, Ahimsa, and Karma be applied to ethical AI design?",False,4,5,0.8655,0.8672,0.8664
